@@ -13,7 +13,7 @@ jobs:
       - name: Update the Lines of Code written so far
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: loc-stats
+          SECTION_NAME: lines-of-code
           COMMIT_MESSAGE: "doc(loc): Update Lines of Code section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: True
@@ -36,7 +36,7 @@ jobs:
       - name: Update the Code Time
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: ct-stats
+          SECTION_NAME: coding-time
           COMMIT_MESSAGE: "doc(ct-stats): Update Code Time section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -59,7 +59,7 @@ jobs:
       - name: Update the Commit Stats by Time Period
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: cttp-stats
+          SECTION_NAME: commit-time-distribution
           COMMIT_MESSAGE: "doc(cttp-stats): Update Commit Stats by Time Period section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -82,7 +82,7 @@ jobs:
       - name: Update the Commit Stats by Week Days
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: ctwd-stats
+          SECTION_NAME: weekly-commit-stats
           COMMIT_MESSAGE: "doc(ctwd-stats): Update Commit Stats by Week Days section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -105,7 +105,7 @@ jobs:
       - name: Update the Language Usages Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: lu-stats
+          SECTION_NAME: language-usage
           COMMIT_MESSAGE: "doc(lu-stats): Update Language Usages section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -128,7 +128,7 @@ jobs:
       - name: Update the Operating System Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: os-stats
+          SECTION_NAME: operating-systems
           COMMIT_MESSAGE: "doc(os-stats): Update Operating System section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -151,7 +151,7 @@ jobs:
       - name: Update the Projects Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: projects-stats
+          SECTION_NAME: project-stats
           COMMIT_MESSAGE: "doc(projects-stats): Update Projects section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -174,7 +174,7 @@ jobs:
       - name: Update the Timezone Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: timezone-stats
+          SECTION_NAME: timezone-distribution
           COMMIT_MESSAGE: "doc(timezone-stats): Update Timezone section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -197,7 +197,7 @@ jobs:
       - name: Update the Editors Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: editors-stats
+          SECTION_NAME: editor-usage
           COMMIT_MESSAGE: "doc(editors-stats): Update Editors section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -220,7 +220,7 @@ jobs:
       - name: Update the Language Per Repo Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: lpr-stats
+          SECTION_NAME: repository-languages
           COMMIT_MESSAGE: "doc(lpr-stats): Update Language Per Repo section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -243,7 +243,7 @@ jobs:
       - name: Update the Short Info Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: si-stats
+          SECTION_NAME: profile-info
           COMMIT_MESSAGE: "doc(si-stats): Update Short Info section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
@@ -266,7 +266,7 @@ jobs:
       - name: Update the LOC Chart Stats
         uses: anmol098/waka-readme-stats@master
         with:
-          SECTION_NAME: loc-stats
+          SECTION_NAME: line-of-code-chart
           COMMIT_MESSAGE: "doc(loc-stats): Update LOC Chart section in README"
           SHOW_UPDATED_DATE: False
           SHOW_LINES_OF_CODE: False
