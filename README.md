@@ -8,6 +8,9 @@
 <!--END_SECTION:lines-of-code-->
 
 <!--START_SECTION:coding-time-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2029%20mins-blue)
+
+
 <!--END_SECTION:coding-time-->
 
 <!--START_SECTION:commit-time-distribution-->
