@@ -57,6 +57,14 @@ Markdown                 3 mins              █░░░░░░░░░░�
 <!--END_SECTION:language-usage-->
 
 <!--START_SECTION:operating-systems-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+```
+
+
 <!--END_SECTION:operating-systems-->
 
 <!--START_SECTION:project-stats-->
