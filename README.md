@@ -76,13 +76,13 @@ Windows                  1 hr 5 mins         ███████████�
 <!--END_SECTION:operating-systems-->
 
 <!--START_SECTION:project-stats-->
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects:
-mrasadatik               1 hr 5 mins         █████████████████████████   100.00 %
+🐱‍💻 Projects: 
+mrasadatik               1 hr 5 mins         █████████████████████████   100.00 % 
 ```
+
 
 <!--END_SECTION:project-stats-->
 
