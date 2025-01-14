@@ -1,12 +1,12 @@
-name: \@mrasadatik Readme
+name: update-readme-24
 
 on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-readme-24:
+    name:
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
