@@ -89,6 +89,16 @@ mrasadatik               1 hr 5 mins         ███████████�
 <!--END_SECTION:timezone-distribution-->
 
 <!--START_SECTION:editor-usage-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Firefox                  34 mins             █████████████░░░░░░░░░░░░   52.37 % 
+VS Code                  20 mins             ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Chrome                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+```
+
+
 <!--END_SECTION:editor-usage-->
 
 <!--START_SECTION:repository-languages-->
