@@ -1,4 +1,9 @@
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.0.2](https://github.com/mrasadatik/basic-java-gui-calculator/releases/tag/v0.0.2) in [mrasadatik/basic-java-gui-calculator](https://github.com/mrasadatik/basic-java-gui-calculator)
+2. 🔒 Closed issue [#3](https://github.com/mrasadatik/asadatik.dev/issues/3) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
+3. 🔒 Closed issue [#3](https://github.com/mrasadatik/asadatik.dev/issues/3) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
+4. 🎉 Merged PR [#4](https://github.com/mrasadatik/asadatik.dev/pull/4) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
+5. 💪 Opened PR [#4](https://github.com/mrasadatik/asadatik.dev/pull/4) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:lines-of-code-->
