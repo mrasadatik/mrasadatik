@@ -5,8 +5,8 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 jobs:
-  interactive-readme-tools:
-    name: Interactive README Update
+  interactive-readme-tools-daily-update:
+    name: Interactive Daily README Update
     runs-on: ubuntu-latest
     steps:
       # Step 1: Update Lines of Code Stats
