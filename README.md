@@ -117,6 +117,19 @@ Python                   1 repo              ████░░░░░░░�
 <!--END_SECTION:repository-languages-->
 
 <!--START_SECTION:profile-info-->
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+
 <!--END_SECTION:profile-info-->
 
 <!--START_SECTION:line-of-code-chart-->
