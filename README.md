@@ -141,9 +141,9 @@ Python                   1 repo              ████░░░░░░░�
 <!--END_SECTION:profile-info-->
 
 <!--START_SECTION:line-of-code-chart-->
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/mrasadatik/mrasadatik/main/assets/bar_graph.png)
+
 
 <!--END_SECTION:line-of-code-chart-->
