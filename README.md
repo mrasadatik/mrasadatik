@@ -1,4 +1,4 @@
-![Hello World! I am @mrasadatik](./assets/github-header-image.png)
+<img src="./assets/github-header-image.png" alt="Hello World! I am @mrasadatik" width="100%" />
 
 I'm a tech enthusiast and programmer with a deep passion for technology, innovation, and sustainable energy. My journey in technology has been an exciting adventure filled with learning, building, and exploring new solutions.
 
