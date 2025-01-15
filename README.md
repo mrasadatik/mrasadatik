@@ -46,7 +46,7 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 
 <!--END_SECTION:lines-of-code-->
 
-### Recent Activity
+🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
 
