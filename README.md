@@ -57,6 +57,9 @@ I believe in the power of sharing knowledge. Here are some of my latest contribu
 Technology has been a pivotal part of my life, allowing me to innovate and collaborate. Here's a snapshot of my journey:
 
 <!--START_SECTION:coding-time-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2053%20mins-blue)
+
+
 <!--END_SECTION:coding-time-->
 
 <!--START_SECTION:lines-of-code-->
