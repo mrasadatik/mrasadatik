@@ -79,6 +79,17 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:commit-time-distribution-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                588 commits         ███████████░░░░░░░░░░░░░░   43.46 % 
+🌆 Daytime                247 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+🌃 Evening                295 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+🌙 Night                  223 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+```
+
+
+
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
