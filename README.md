@@ -35,7 +35,7 @@ My journey is powered by a love for technology. Here are some of the tools and l
 Technology has been a pivotal part of my life, allowing me to innovate and collaborate. Here's a snapshot of my journey:
 
 <!--START_SECTION:coding-time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2050%20mins-blue)
 
 
 <!--END_SECTION:coding-time-->
