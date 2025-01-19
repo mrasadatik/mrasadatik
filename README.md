@@ -149,20 +149,24 @@ For any major updates, important announcements, or notifications, you will recei
 
 Want to keep up with my latest projects, updates, and insights? You can subscribe to my newsletter:
 
--   **Subscribe Here:** [mr.asadatik.dev/subscribe](http://mr.asadatik.dev/subscribe)
--   **Unsubscribe Link:** [mr.asadatik.dev/unsubscribe](http://mr.asadatik.dev/unsubscribe)
+-   Subscribe Here: [mr.asadatik.dev/subscribe](http://mr.asadatik.dev/subscribe)
+-   Unsubscribe Link: [mr.asadatik.dev/unsubscribe](http://mr.asadatik.dev/unsubscribe)
 
-Emails you'll receive from:  
-**Newsletter Updates:** newsletter+<newsletter-uuid>@mr.asadatik.dev  
-When you subscribe, a newsletter-uuid will be generated for you, which will be used in the email address for newsletter communication.
+Emails you'll receive from:
 
-> Please note, the newsletter is a one-way communication. You will only receive updates, and replies are not monitored.
+-   Newsletter Updates:
+    -   newsletter+<newsletter-uuid>@mr.asadatik.dev
+    -   When you subscribe, a newsletter-uuid will be generated for you, which will be used in the email address for newsletter communication.
+
+Please note, the newsletter is a one-way communication. You will only receive updates, and replies are not monitored.
 
 ---
 
 🚫 **No Other Public Emails**
 
 For clarity, I do not use any other public-facing email addresses. All official communication should be directed to the emails listed above. Please be cautious of any other email outreach.
+
+---
 
 **Connect with Me on Social Media**
 
