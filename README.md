@@ -145,8 +145,8 @@ For any major updates, important announcements, or notifications, you will recei
 
 Want to keep up with my latest projects, updates, and insights? You can subscribe to my newsletter:
 
--   Subscribe Here: [mr.asadatik.dev/subscribe](http://mr.asadatik.dev/subscribe)
--   Unsubscribe Link: [mr.asadatik.dev/unsubscribe](http://mr.asadatik.dev/unsubscribe)
+-   **Subscribe Here:** [https://mr.asadatik.dev/subscribe](https://mr.asadatik.dev/subscribe)
+-   Unsubscribe Link: [https://mr.asadatik.dev/unsubscribe](https://mr.asadatik.dev/unsubscribe)
 
 Emails you'll receive from:
 
@@ -167,5 +167,7 @@ For clarity, I do not use any other public-facing email addresses. All official 
 ## Connect with Me on Social Media
 
 Let’s stay in touch through my social media channels:
+
+**You can track my activities in more detail on my website: [https://mr.asadatik.dev](https://mr.asadatik.dev)**
 
 > Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)
