@@ -168,7 +168,7 @@ For clarity, I do not use any other public-facing email addresses. All official 
 
 ---
 
-**Connect with Me on Social Media**
+## Connect with Me on Social Media
 
 Let’s stay in touch through my social media channels:
 
