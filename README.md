@@ -151,7 +151,7 @@ Want to keep up with my latest projects, updates, and insights? You can subscrib
 Emails you'll receive from:
 
 -   Newsletter Updates:
-    -   \<newsletter-uuid\>@newsletter.asadatik.dev
+    -   **Email:** \<newsletter-uuid\>@newsletter.asadatik.dev
     -   When you subscribe, a newsletter-uuid will be generated for you, which will be used in the email address for newsletter communication.
 
 Please note, the newsletter is a one-way communication. You will only receive updates, and replies are not monitored.
