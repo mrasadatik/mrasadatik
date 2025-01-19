@@ -30,14 +30,14 @@ My journey is powered by a love for technology. Here are some of the tools and l
 
 <p align="left">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&style=flat-square">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-ffffff.svg?logo=c&logoWidth=20&style=flat-square">
-        <img style="height: 30px;" alt="C" src="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-ffffff.svg?logo=c&logoWidth=20&logoColor=212830&style=flat-square">
+        <img style="height: 30px;" alt="C" src="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&logoColor=ffffff&style=flat-square">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&style=flat-square">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-ffffff.svg?logo=cplusplus&logoWidth=20&style=flat-square">
-        <img style="height: 30px;" alt="C++" src="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-ffffff.svg?logo=cplusplus&logoWidth=20&logoColor=212830&style=flat-square">
+        <img style="height: 30px;" alt="C++" src="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&logoColor=ffffff&style=flat-square">
     </picture>
 </p>
 
