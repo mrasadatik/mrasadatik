@@ -20,7 +20,7 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 
 <!--END_SECTION:lines-of-code-->
 
-[![user:13679219's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![StackOverflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true)](https://stackoverflow.com/users/13679219/mrasadatik)
 
 🤖 **The Technologies That Inspire Me**  
 My journey is powered by a love for technology. Here are some of the tools and languages that I work with:
