@@ -172,6 +172,4 @@ For clarity, I do not use any other public-facing email addresses. All official 
 
 Let’s stay in touch through my social media channels:
 
----
-
-<span style="vertical-align: middle;">Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)</span>
+> Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)
