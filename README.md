@@ -134,18 +134,14 @@ If you value my work, please consider supporting me on any of these platforms:
 -   **Email:** [help@mr.asadatik.dev](mailto:help@mr.asadatik.dev)
 -   For project-related issues or technical support inquiries — I’m here to assist.
 
----
-
-📢 **Important Updates & Announcements**
+### Important Updates & Announcements
 
 For any major updates, important announcements, or notifications, you will receive them from the following:
 
 -   **Email:** [noreply@mr.asadatik.dev](mailto:noreply@mr.asadatik.dev)
 -   This is a one-way channel for formal announcements. No replies necessary.
 
----
-
-📰 **Stay Informed with My Newsletter**
+### Stay Informed with My Newsletter
 
 Want to keep up with my latest projects, updates, and insights? You can subscribe to my newsletter:
 
