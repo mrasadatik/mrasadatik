@@ -22,8 +22,26 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 
 [![StackOverflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true)](https://stackoverflow.com/users/13679219/mrasadatik)
 
-🤖 **The Technologies That Inspire Me**  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="mrasadatik" /></a> </p>
+
+### 🤖 The Technologies That Inspire Me
+
 My journey is powered by a love for technology. Here are some of the tools and languages that I work with:
+
+<p align="left">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-ffffff.svg?logo=c&logoWidth=20&style=flat-square">
+        <img style="height: 30px;" alt="C" src="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&style=flat-square">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-ffffff.svg?logo=cplusplus&logoWidth=20&style=flat-square">
+        <img style="height: 30px;" alt="C++" src="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&style=flat-square">
+    </picture>
+</p>
+
+---
 
 🛠️ **Recent GitHub Activity**
 
