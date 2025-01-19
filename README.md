@@ -114,40 +114,38 @@ If you value my work, please consider supporting me on any of these platforms:
 
 ## **Contact Me**
 
-### **Casual Conversations**
+**Casual Conversations**
 
 -   **Email:** [hey@mr.asadatik.dev](mailto:hey@mr.asadatik.dev)
 -   For informal discussions, brainstorming, or sharing ideas.
 
-### **Professional Conversations & Networking**
+**Professional Conversations & Networking**
 
 -   **Email:** [engage@mr.asadatik.dev](mailto:engage@mr.asadatik.dev)
 -   For business discussions, networking, or professional opportunities.
 
-### **Career Development & Collaboration**
+**Career Development & Collaboration**
 
 -   **Email:** [flow@mr.asadatik.dev](mailto:flow@mr.asadatik.dev)
 -   To discuss career paths, collaboration opportunities, or new projects.
 
-### **Support & Troubleshooting**
+**Support & Troubleshooting**
 
 -   **Email:** [help@mr.asadatik.dev](mailto:help@mr.asadatik.dev)
 -   For project-related issues or technical support inquiries — I’m here to assist.
 
 ---
 
-### 📢 **Important Updates & Announcements**
+📢 **Important Updates & Announcements**
 
 For any major updates, important announcements, or notifications, you will receive them from the following:
-
-#### **No Reply for Announcements**
 
 -   **Email:** [noreply@mr.asadatik.dev](mailto:noreply@mr.asadatik.dev)
 -   This is a one-way channel for formal announcements. No replies necessary.
 
 ---
 
-### 📰 **Stay Informed with My Newsletter**
+📰 **Stay Informed with My Newsletter**
 
 Want to keep up with my latest projects, updates, and insights? You can subscribe to my newsletter:
 
@@ -158,18 +156,18 @@ Emails you'll receive from:
 **Newsletter Updates:** newsletter+<newsletter-uuid>@mr.asadatik.dev  
 When you subscribe, a newsletter-uuid will be generated for you, which will be used in the email address for newsletter communication.
 
-Please note, the newsletter is a one-way communication. You will only receive updates, and replies are not monitored.
+> Please note, the newsletter is a one-way communication. You will only receive updates, and replies are not monitored.
 
 ---
 
-### 🚫 **No Other Public Emails**
+🚫 **No Other Public Emails**
 
 For clarity, I do not use any other public-facing email addresses. All official communication should be directed to the emails listed above. Please be cautious of any other email outreach.
 
-### **Connect with Me on Social Media**
+**Connect with Me on Social Media**
 
 Let’s stay in touch through my social media channels:
 
 ---
 
-Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. <span style="vertical-align: middle;">![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)</span>
+<span style="vertical-align: middle;">Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)</span>
