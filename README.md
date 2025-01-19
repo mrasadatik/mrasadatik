@@ -20,7 +20,11 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 
 <!--END_SECTION:lines-of-code-->
 
-[![StackOverflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true)](https://stackoverflow.com/users/13679219/mrasadatik)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=default&website=true&location=true">
+    <img alt="StackOverflow Profile (user: 13679219)" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
+</picture>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="mrasadatik" /></a> </p>
 
@@ -182,9 +186,97 @@ For clarity, I do not use any other public-facing email addresses. All official 
 
 ---
 
-## Connect with Me on Social Media
+## Connect with Me on Social Platforms
 
 Let’s stay in touch through my social media channels:
+
+<p align="left">
+    <a href="https://github.com/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub-ffffff.svg?logo=github&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="GitHub: mrasadatik" src="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://dev.to/mrasadatik" target="_blank">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Dev Community-ffffff.svg?logo=dev.to&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="dev.to: mrasadatik" src="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://codesandbox.io/u/mrasadatik" target="_blank">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CodeSandbox-212830.svg?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CodeSandbox-ffffff.svg?logo=codesandbox&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="CodeSandbox: mrasadatik" src="https://img.shields.io/badge/-CodeSandbox-212830.svg?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LinkedIn-212830.svg?logo=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAAA70lEQVR42u2XvwpBYRiH32M4ZFRGg1luw0ImN2FzAUq2UzKY7WaXQMnoJLkBg1FSDJZHDunzP995FfGMv349ff+G9xNcPOZoMMfDFTw08URpdadVCsq8XejToIGvJawTEREhQl1DOMSRIzgMwwtrYkDtA4XqW1a/lD2j4NmMPvhhP2dGlyZtBqyeCs9u+SKhAIwpHk45SOJUWIcRdojJBWRZ2ArTuHID8pbC+9ALISRFiRzRs6xsLaTKNognJI00YymkZFRbRp6wFfaN6tTIHVvh0qhurruvC3nc/Qv/wl8RfsU4pyBUH4nVh3blb8UOg1dgEw6RU9oAAAAASUVORK5CYII=&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-LinkedIn-ffffff.svg?logo=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAB/ElEQVRYR+2Zv0vDQBTHG4sOFiNmc3BwFFF0EhEU1E1HJwcHB8HJ0cWfBUFXB/8AV0cdFewgbipS3JxEHcQioeAPqPFzJZW03qURzTWBBK69vrvkffJ9715+1EilUi20rGEYc47jdNJv+AbLIyz7gKwZfGzTlhtOJQfYAdZ4iIpytYxCSaGgE1H1yljxBkTiq3Q6fSzOpFQqTZIKA7rV9lMwC8wm7dOFauJ7XawsnZBSQJQ7R60RSX6KRXXG2LAuSJWCG656Mg6hohjXssUTMA4hFuGL7iKpJBdKXlJmTtwyM8HiGNSSeB4n8S7U/6EWUbjjOBdE4pYImBT8Hmz99NuCHN9PQTEm27zXbtmcaXY6BOIaiFX6R55iXzleK50F5mwxR/SVWyiAqDWLUvN4faujUh+QOSA7VPPCAOzG2T3tI0gImTPlqiydHgZgQK6qaaf8GpPtGCqgZVldhUJhCMc2LUd7V9AvYt/TDbiCQ3Hn0ywck2v5TCYzXiwWnyQgvdjyOgFncHYgcbiLbanWbpqmZdv2szZAd2WO1jrEfsOKFWr9GMJQue+sGgsrB1/w0i4BfPWpe9Jno7AA/R7EglwAvs8tAVTkm2w9JCH2qpLkYLn4Ky5L9W63xG6JgomCkvT5dZlRpKBec/JU91e9Y/EKONov0QlBpP+G+AKM8Nr12cyqzwAAAABJRU5ErkJggg==&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="LinkedIn: mrasadatik" src="https://img.shields.io/badge/-LinkedIn-212830.svg?logo=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAQAAAAm93DmAAAA70lEQVR42u2XvwpBYRiH32M4ZFRGg1luw0ImN2FzAUq2UzKY7WaXQMnoJLkBg1FSDJZHDunzP995FfGMv349ff+G9xNcPOZoMMfDFTw08URpdadVCsq8XejToIGvJawTEREhQl1DOMSRIzgMwwtrYkDtA4XqW1a/lD2j4NmMPvhhP2dGlyZtBqyeCs9u+SKhAIwpHk45SOJUWIcRdojJBWRZ2ArTuHID8pbC+9ALISRFiRzRs6xsLaTKNognJI00YymkZFRbRp6wFfaN6tTIHVvh0qhurruvC3nc/Qv/wl8RfsU4pyBUH4nVh3blb8UOg1dgEw6RU9oAAAAASUVORK5CYII=&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://www.facebook.com/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Facebook-212830.svg?logo=facebook&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Facebook-ffffff.svg?logo=facebook&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="Facebook: mrasadatik" src="https://img.shields.io/badge/-Facebook-212830.svg?logo=facebook&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://www.youtube.com/@MAKxplained" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-YouTube-212830.svg?logo=youtube&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-YouTube-ffffff.svg?logo=youtube&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="YouTube: MAKxplained" src="https://img.shields.io/badge/-YouTube-212830.svg?logo=youtube&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="discord.com/users/829560693833334864" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Discord-212830.svg?logo=discord&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Discord-ffffff.svg?logo=discord&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="Discord: 829560693833334864" src="https://img.shields.io/badge/-Discord-212830.svg?logo=discord&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://x.com/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-X%20(Twitter)-212830.svg?logo=x&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-X%20(Twitter)-ffffff.svg?logo=x&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="X (Twitter): mrasadatik" src="https://img.shields.io/badge/-X%20(Twitter)-212830.svg?logo=x&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://stackoverflow.com/users/13679219/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Stack%20Overflow-212830.svg?logo=stackoverflow&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Stack%20Overflow-ffffff.svg?logo=stackoverflow&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="Stack Overflow: 13679219" src="https://img.shields.io/badge/-Stack%20Overflow-212830.svg?logo=stackoverflow&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://kaggle.com/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kaggle-212830.svg?logo=kaggle&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kaggle-ffffff.svg?logo=kaggle&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="Kaggle: mrasadatik" src="https://img.shields.io/badge/-Kaggle-212830.svg?logo=kaggle&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://instagram.com/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-212830.svg?logo=instagram&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Instagram-ffffff.svg?logo=instagram&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="Instagram: mrasadatik" src="https://img.shields.io/badge/-Instagram-212830.svg?logo=instagram&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+    <a href="https://codeforces.com/profile/mrasadatik" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Codeforces-212830.svg?logo=codeforces&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Codeforces-ffffff.svg?logo=codeforces&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 30px;" alt="Codeforces: mrasadatik" src="https://img.shields.io/badge/-Codeforces-212830.svg?logo=codeforces&logoWidth=20&logoColor=ffffff&style=flat-square">
+        </picture>
+    </a>
+
+</p>
 
 **You can track my activities in more detail on my website: [https://mr.asadatik.dev](https://mr.asadatik.dev)**
 
