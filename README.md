@@ -467,7 +467,7 @@ Let’s stay in touch through my social media channels:
         <img style="height: 40px;" alt="YouTube: MAKxplained" src="https://img.shields.io/badge/-YouTube-ffffff?logo=youtube&logoWidth=20&logoColor=212830&style=flat-square">
     </picture>
 </a>
-<a href="discord.com/users/829560693833334864" target="_blank">
+<a href="https://discord.com/users/829560693833334864" target="_blank">
     <picture style="height: 40px;">
         <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Discord-ffffff?logo=discord&logoWidth=20&logoColor=212830&style=flat-square">
         <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Discord-212830?logo=discord&logoWidth=20&logoColor=ffffff&style=flat-square">
