@@ -26,7 +26,7 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
     <img alt="StackOverflow: 13679219" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
 </picture>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
+<p align="left"> <a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
 
 ### 🤖 The Technologies and Languages That Inspire Me
 
