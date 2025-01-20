@@ -311,11 +311,11 @@ My journey is powered by a love for technology. Here are some of the tools and l
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/mrasadatik/random-coding-problems-and-solutions/issues/1) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
-2. 🔒 Closed issue [#3](https://github.com/mrasadatik/asadatik.dev/issues/3) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
-3. 🔒 Closed issue [#3](https://github.com/mrasadatik/asadatik.dev/issues/3) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
-4. 🎉 Merged PR [#4](https://github.com/mrasadatik/asadatik.dev/pull/4) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
-5. 💪 Opened PR [#4](https://github.com/mrasadatik/asadatik.dev/pull/4) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
+1. 🔒 Closed issue [#6](https://github.com/mrasadatik/random-coding-problems-and-solutions/issues/6) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
+2. 🎉 Merged PR [#7](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/7) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
+3. 💪 Opened PR [#7](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/7) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
+4. ❗ Opened issue [#6](https://github.com/mrasadatik/random-coding-problems-and-solutions/issues/6) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
+5. 🎉 Merged PR [#5](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/5) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
  <!--END_SECTION:activity-->
 
 <!--START_SECTION:commit-time-distribution-->
