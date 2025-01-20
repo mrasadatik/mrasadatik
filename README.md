@@ -34,14 +34,14 @@ My journey is powered by a love for technology. Here are some of the tools and l
 
 <p align="left">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&logoColor=ffffff&style=flat-square">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-ffffff.svg?logo=c&logoWidth=20&logoColor=212830&style=flat-square">
-        <img style="height: 50px;" alt="C" src="https://img.shields.io/badge/-C-212830.svg?logo=c&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-212830?logo=c&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-ffffff?logo=c&logoWidth=20&logoColor=212830&style=flat-square">
+        <img style="height: 50px;" alt="C" src="https://img.shields.io/badge/-C-212830?logo=c&logoWidth=20&logoColor=ffffff&style=flat-square">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&logoColor=ffffff&style=flat-square">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-ffffff.svg?logo=cplusplus&logoWidth=20&logoColor=212830&style=flat-square">
-        <img style="height: 50px;" alt="C++" src="https://img.shields.io/badge/-C++-212830.svg?logo=cplusplus&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-212830?logo=cplusplus&logoWidth=20&logoColor=ffffff&style=flat-square">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-ffffff?logo=cplusplus&logoWidth=20&logoColor=212830&style=flat-square">
+        <img style="height: 50px;" alt="C++" src="https://img.shields.io/badge/-C++-212830?logo=cplusplus&logoWidth=20&logoColor=ffffff&style=flat-square">
     </picture>
 </p>
 
@@ -193,86 +193,86 @@ Let’s stay in touch through my social media channels:
 <p align="left">
     <a href="https://github.com/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square" />
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub-ffffff.svg?logo=github&logoWidth=20&logoColor=212830&style=flat-square" />
-            <img style="height: 50px;" alt="GitHub: mrasadatik" src="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-212830?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square" />
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub-ffffff?logo=github&logoWidth=20&logoColor=212830&style=flat-square" />
+            <img style="height: 50px;" alt="GitHub: mrasadatik" src="https://img.shields.io/badge/-GitHub-212830?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square" />
         </picture>
     </a>
     <a href="https://dev.to/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square" />
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Dev Community-ffffff.svg?logo=dev.to&logoWidth=20&logoColor=212830&style=flat-square" />
-            <img style="height: 50px;" alt="dev.to: mrasadatik" src="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Dev Community-212830?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square" />
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Dev Community-ffffff?logo=dev.to&logoWidth=20&logoColor=212830&style=flat-square" />
+            <img style="height: 50px;" alt="dev.to: mrasadatik" src="https://img.shields.io/badge/-Dev Community-212830?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square" />
         </picture>
     </a>
     <a href="https://codesandbox.io/u/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CodeSandbox-212830.svg?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CodeSandbox-ffffff.svg?logo=codesandbox&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="CodeSandbox: mrasadatik" src="https://img.shields.io/badge/-CodeSandbox-212830.svg?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CodeSandbox-212830?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CodeSandbox-ffffff?logo=codesandbox&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="CodeSandbox: mrasadatik" src="https://img.shields.io/badge/-CodeSandbox-212830?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="https://www.linkedin.com/in/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LinkedIn-212830.svg?logoWidth=20&logoColor=ffffff&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPiAgICA8cGF0aCBkPSJNNDEsNEg5QzYuMjQsNCw0LDYuMjQsNCw5djMyYzAsMi43NiwyLjI0LDUsNSw1aDMyYzIuNzYsMCw1LTIuMjQsNS01VjlDNDYsNi4yNCw0My43Niw0LDQxLDR6IE0xNywyMHYxOWgtNlYyMEgxN3ogTTExLDE0LjQ3YzAtMS40LDEuMi0yLjQ3LDMtMi40N3MyLjkzLDEuMDcsMywyLjQ3YzAsMS40LTEuMTIsMi41My0zLDIuNTNDMTIuMiwxNywxMSwxNS44NywxMSwxNC40N3ogTTM5LDM5aC02YzAsMCwwLTkuMjYsMC0xMCBjMC0yLTEtNC0zLjUtNC4wNGgtMC4wOEMyNywyNC45NiwyNiwyNy4wMiwyNiwyOWMwLDAuOTEsMCwxMCwwLDEwaC02VjIwaDZ2Mi41NmMwLDAsMS45My0yLjU2LDUuODEtMi41NiBjMy45NywwLDcuMTksMi43Myw3LjE5LDguMjZWMzl6Ii8+PC9zdmc+">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-LinkedIn-ffffff.svg?logoWidth=20&logoColor=212830&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU2LjY5MyA1Ni42OTMiIGhlaWdodD0iNTYuNjkzcHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1Ni42OTMgNTYuNjkzIiB3aWR0aD0iNTYuNjkzcHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxwYXRoIGQ9Ik0zMC4wNzEsMjcuMTAxdi0wLjA3N2MtMC4wMTYsMC4wMjYtMC4wMzMsMC4wNTItMC4wNSwwLjA3N0gzMC4wNzF6Ii8+PHBhdGggZD0iTTQ5LjI2NSw0LjY2N0g3LjE0NWMtMi4wMTYsMC0zLjY1MSwxLjU5Ni0zLjY1MSwzLjU2M3Y0Mi42MTNjMCwxLjk2NiwxLjYzNSwzLjU2MiwzLjY1MSwzLjU2Mmg0Mi4xMiAgIGMyLjAxOSwwLDMuNjU0LTEuNTk3LDMuNjU0LTMuNTYyVjguMjNDNTIuOTE5LDYuMjYyLDUxLjI4Myw0LjY2Nyw0OS4yNjUsNC42Njd6IE0xOC40NzUsNDYuMzA0aC03LjQ2NVYyMy44NDVoNy40NjVWNDYuMzA0eiAgICBNMTQuNzQzLDIwLjc3N2gtMC4wNWMtMi41MDQsMC00LjEyNC0xLjcyNS00LjEyNC0zLjg4YzAtMi4yMDMsMS42Ny0zLjg4LDQuMjIzLTMuODhjMi41NTQsMCw0LjEyNSwxLjY3Nyw0LjE3NSwzLjg4ICAgQzE4Ljk2NywxOS4wNTIsMTcuMzQ1LDIwLjc3NywxNC43NDMsMjAuNzc3eiBNNDUuMzk0LDQ2LjMwNGgtNy40NjVWMzQuMjg2YzAtMy4wMTgtMS4wOC01LjA3OC0zLjc4MS01LjA3OCAgIGMtMi4wNjIsMC0zLjI5LDEuMzg5LTMuODMxLDIuNzMxYy0wLjE5NywwLjQ3OS0wLjI0NSwxLjE0OS0wLjI0NSwxLjgyMXYxMi41NDNoLTcuNDY1YzAsMCwwLjA5OC0yMC4zNTQsMC0yMi40NTloNy40NjV2My4xNzkgICBjMC45OTItMS41MywyLjc2Ni0zLjcwOSw2LjcyOS0zLjcwOWM0LjkxMSwwLDguNTk0LDMuMjExLDguNTk0LDEwLjExVjQ2LjMwNHoiLz48L2c+PC9zdmc+">
-            <img style="height: 50px;" alt="LinkedIn: mrasadatik" src="https://img.shields.io/badge/-LinkedIn-212830.svg?logoWidth=20&logoColor=ffffff&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPiAgICA8cGF0aCBkPSJNNDEsNEg5QzYuMjQsNCw0LDYuMjQsNCw5djMyYzAsMi43NiwyLjI0LDUsNSw1aDMyYzIuNzYsMCw1LTIuMjQsNS01VjlDNDYsNi4yNCw0My43Niw0LDQxLDR6IE0xNywyMHYxOWgtNlYyMEgxN3ogTTExLDE0LjQ3YzAtMS40LDEuMi0yLjQ3LDMtMi40N3MyLjkzLDEuMDcsMywyLjQ3YzAsMS40LTEuMTIsMi41My0zLDIuNTNDMTIuMiwxNywxMSwxNS44NywxMSwxNC40N3ogTTM5LDM5aC02YzAsMCwwLTkuMjYsMC0xMCBjMC0yLTEtNC0zLjUtNC4wNGgtMC4wOEMyNywyNC45NiwyNiwyNy4wMiwyNiwyOWMwLDAuOTEsMCwxMCwwLDEwaC02VjIwaDZ2Mi41NmMwLDAsMS45My0yLjU2LDUuODEtMi41NiBjMy45NywwLDcuMTksMi43Myw3LjE5LDguMjZWMzl6Ii8+PC9zdmc+">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-LinkedIn-212830?logoWidth=20&logoColor=ffffff&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPiAgICA8cGF0aCBkPSJNNDEsNEg5QzYuMjQsNCw0LDYuMjQsNCw5djMyYzAsMi43NiwyLjI0LDUsNSw1aDMyYzIuNzYsMCw1LTIuMjQsNS01VjlDNDYsNi4yNCw0My43Niw0LDQxLDR6IE0xNywyMHYxOWgtNlYyMEgxN3ogTTExLDE0LjQ3YzAtMS40LDEuMi0yLjQ3LDMtMi40N3MyLjkzLDEuMDcsMywyLjQ3YzAsMS40LTEuMTIsMi41My0zLDIuNTNDMTIuMiwxNywxMSwxNS44NywxMSwxNC40N3ogTTM5LDM5aC02YzAsMCwwLTkuMjYsMC0xMCBjMC0yLTEtNC0zLjUtNC4wNGgtMC4wOEMyNywyNC45NiwyNiwyNy4wMiwyNiwyOWMwLDAuOTEsMCwxMCwwLDEwaC02VjIwaDZ2Mi41NmMwLDAsMS45My0yLjU2LDUuODEtMi41NiBjMy45NywwLDcuMTksMi43Myw3LjE5LDguMjZWMzl6Ii8+PC9zdmc+">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-LinkedIn-ffffff?logoWidth=20&logoColor=212830&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU2LjY5MyA1Ni42OTMiIGhlaWdodD0iNTYuNjkzcHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1Ni42OTMgNTYuNjkzIiB3aWR0aD0iNTYuNjkzcHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxwYXRoIGQ9Ik0zMC4wNzEsMjcuMTAxdi0wLjA3N2MtMC4wMTYsMC4wMjYtMC4wMzMsMC4wNTItMC4wNSwwLjA3N0gzMC4wNzF6Ii8+PHBhdGggZD0iTTQ5LjI2NSw0LjY2N0g3LjE0NWMtMi4wMTYsMC0zLjY1MSwxLjU5Ni0zLjY1MSwzLjU2M3Y0Mi42MTNjMCwxLjk2NiwxLjYzNSwzLjU2MiwzLjY1MSwzLjU2Mmg0Mi4xMiAgIGMyLjAxOSwwLDMuNjU0LTEuNTk3LDMuNjU0LTMuNTYyVjguMjNDNTIuOTE5LDYuMjYyLDUxLjI4Myw0LjY2Nyw0OS4yNjUsNC42Njd6IE0xOC40NzUsNDYuMzA0aC03LjQ2NVYyMy44NDVoNy40NjVWNDYuMzA0eiAgICBNMTQuNzQzLDIwLjc3N2gtMC4wNWMtMi41MDQsMC00LjEyNC0xLjcyNS00LjEyNC0zLjg4YzAtMi4yMDMsMS42Ny0zLjg4LDQuMjIzLTMuODhjMi41NTQsMCw0LjEyNSwxLjY3Nyw0LjE3NSwzLjg4ICAgQzE4Ljk2NywxOS4wNTIsMTcuMzQ1LDIwLjc3NywxNC43NDMsMjAuNzc3eiBNNDUuMzk0LDQ2LjMwNGgtNy40NjVWMzQuMjg2YzAtMy4wMTgtMS4wOC01LjA3OC0zLjc4MS01LjA3OCAgIGMtMi4wNjIsMC0zLjI5LDEuMzg5LTMuODMxLDIuNzMxYy0wLjE5NywwLjQ3OS0wLjI0NSwxLjE0OS0wLjI0NSwxLjgyMXYxMi41NDNoLTcuNDY1YzAsMCwwLjA5OC0yMC4zNTQsMC0yMi40NTloNy40NjV2My4xNzkgICBjMC45OTItMS41MywyLjc2Ni0zLjcwOSw2LjcyOS0zLjcwOWM0LjkxMSwwLDguNTk0LDMuMjExLDguNTk0LDEwLjExVjQ2LjMwNHoiLz48L2c+PC9zdmc+">
+            <img style="height: 50px;" alt="LinkedIn: mrasadatik" src="https://img.shields.io/badge/-LinkedIn-212830?logoWidth=20&logoColor=ffffff&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPiAgICA8cGF0aCBkPSJNNDEsNEg5QzYuMjQsNCw0LDYuMjQsNCw5djMyYzAsMi43NiwyLjI0LDUsNSw1aDMyYzIuNzYsMCw1LTIuMjQsNS01VjlDNDYsNi4yNCw0My43Niw0LDQxLDR6IE0xNywyMHYxOWgtNlYyMEgxN3ogTTExLDE0LjQ3YzAtMS40LDEuMi0yLjQ3LDMtMi40N3MyLjkzLDEuMDcsMywyLjQ3YzAsMS40LTEuMTIsMi41My0zLDIuNTNDMTIuMiwxNywxMSwxNS44NywxMSwxNC40N3ogTTM5LDM5aC02YzAsMCwwLTkuMjYsMC0xMCBjMC0yLTEtNC0zLjUtNC4wNGgtMC4wOEMyNywyNC45NiwyNiwyNy4wMiwyNiwyOWMwLDAuOTEsMCwxMCwwLDEwaC02VjIwaDZ2Mi41NmMwLDAsMS45My0yLjU2LDUuODEtMi41NiBjMy45NywwLDcuMTksMi43Myw3LjE5LDguMjZWMzl6Ii8+PC9zdmc+">
         </picture>
     </a>
     <a href="https://www.facebook.com/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Facebook-212830.svg?logo=facebook&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Facebook-ffffff.svg?logo=facebook&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="Facebook: mrasadatik" src="https://img.shields.io/badge/-Facebook-212830.svg?logo=facebook&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Facebook-212830?logo=facebook&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Facebook-ffffff?logo=facebook&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="Facebook: mrasadatik" src="https://img.shields.io/badge/-Facebook-212830?logo=facebook&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="https://www.youtube.com/@MAKxplained" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-YouTube-212830.svg?logo=youtube&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-YouTube-ffffff.svg?logo=youtube&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="YouTube: MAKxplained" src="https://img.shields.io/badge/-YouTube-212830.svg?logo=youtube&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-YouTube-212830?logo=youtube&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-YouTube-ffffff?logo=youtube&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="YouTube: MAKxplained" src="https://img.shields.io/badge/-YouTube-212830?logo=youtube&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="discord.com/users/829560693833334864" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Discord-212830.svg?logo=discord&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Discord-ffffff.svg?logo=discord&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="Discord: 829560693833334864" src="https://img.shields.io/badge/-Discord-212830.svg?logo=discord&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Discord-212830?logo=discord&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Discord-ffffff?logo=discord&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="Discord: 829560693833334864" src="https://img.shields.io/badge/-Discord-212830?logo=discord&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="https://x.com/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-X%20(Twitter)-212830.svg?logo=x&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-X%20(Twitter)-ffffff.svg?logo=x&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="X (Twitter): mrasadatik" src="https://img.shields.io/badge/-X%20(Twitter)-212830.svg?logo=x&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-X%20(Twitter)-212830?logo=x&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-X%20(Twitter)-ffffff?logo=x&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="X (Twitter): mrasadatik" src="https://img.shields.io/badge/-X%20(Twitter)-212830?logo=x&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="https://stackoverflow.com/users/13679219/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Stack%20Overflow-212830.svg?logo=stackoverflow&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Stack%20Overflow-ffffff.svg?logo=stackoverflow&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="Stack Overflow: 13679219" src="https://img.shields.io/badge/-Stack%20Overflow-212830.svg?logo=stackoverflow&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Stack%20Overflow-212830?logo=stackoverflow&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Stack%20Overflow-ffffff?logo=stackoverflow&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="Stack Overflow: 13679219" src="https://img.shields.io/badge/-Stack%20Overflow-212830?logo=stackoverflow&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="https://kaggle.com/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kaggle-212830.svg?logo=kaggle&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kaggle-ffffff.svg?logo=kaggle&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="Kaggle: mrasadatik" src="https://img.shields.io/badge/-Kaggle-212830.svg?logo=kaggle&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kaggle-212830?logo=kaggle&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kaggle-ffffff?logo=kaggle&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="Kaggle: mrasadatik" src="https://img.shields.io/badge/-Kaggle-212830?logo=kaggle&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="https://instagram.com/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-212830.svg?logo=instagram&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Instagram-ffffff.svg?logo=instagram&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="Instagram: mrasadatik" src="https://img.shields.io/badge/-Instagram-212830.svg?logo=instagram&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Instagram-212830?logo=instagram&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Instagram-ffffff?logo=instagram&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="Instagram: mrasadatik" src="https://img.shields.io/badge/-Instagram-212830?logo=instagram&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
     <a href="https://codeforces.com/profile/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Codeforces-212830.svg?logo=codeforces&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Codeforces-ffffff.svg?logo=codeforces&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 50px;" alt="Codeforces: mrasadatik" src="https://img.shields.io/badge/-Codeforces-212830.svg?logo=codeforces&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Codeforces-212830?logo=codeforces&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Codeforces-ffffff?logo=codeforces&logoWidth=20&logoColor=212830&style=flat-square">
+            <img style="height: 50px;" alt="Codeforces: mrasadatik" src="https://img.shields.io/badge/-Codeforces-212830?logo=codeforces&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
 
