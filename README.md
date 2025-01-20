@@ -193,22 +193,22 @@ Let’s stay in touch through my social media channels:
 <p align="left">
     <a href="https://github.com/mrasadatik" target="_blank">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub-ffffff.svg?logo=github&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 30px;" alt="GitHub: mrasadatik" src="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square" />
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GitHub-ffffff.svg?logo=github&logoWidth=20&logoColor=212830&style=flat-square" />
+            <img style="height: 30px;" alt="GitHub: mrasadatik" src="https://img.shields.io/badge/-GitHub-212830.svg?logo=github&logoWidth=20&logoColor=ffffff&style=flat-square" />
         </picture>
     </a>
     <a href="https://dev.to/mrasadatik" target="_blank">
         <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Dev Community-ffffff.svg?logo=dev.to&logoWidth=20&logoColor=212830&style=flat-square">
-            <img style="height: 30px;" alt="dev.to: mrasadatik" src="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square" />
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Dev Community-ffffff.svg?logo=dev.to&logoWidth=20&logoColor=212830&style=flat-square" />
+            <img style="height: 30px;" alt="dev.to: mrasadatik" src="https://img.shields.io/badge/-Dev Community-212830.svg?logo=dev.to&logoWidth=20&logoColor=ffffff&style=flat-square" />
         </picture>
     </a>
     <a href="https://codesandbox.io/u/mrasadatik" target="_blank">
         <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CodeSandbox-212830.svg?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CodeSandbox-ffffff.svg?logo=codesandbox&logoWidth=20&logoColor=212830&style=flat-square">
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CodeSandbox-212830.svg?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CodeSandbox-ffffff.svg?logo=codesandbox&logoWidth=20&logoColor=212830&style=flat-square">
             <img style="height: 30px;" alt="CodeSandbox: mrasadatik" src="https://img.shields.io/badge/-CodeSandbox-212830.svg?logo=codesandbox&logoWidth=20&logoColor=ffffff&style=flat-square">
         </picture>
     </a>
