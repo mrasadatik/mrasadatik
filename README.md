@@ -28,10 +28,25 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
 
-### 🤖 The Technologies That Inspire Me
+### 🤖 The Technologies and Languages That Inspire Me
 
 My journey is powered by a love for technology. Here are some of the tools and languages that I work with:
 
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-ffffff?logo=linux&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Linux-212830?logo=linux&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Linux" src="https://img.shields.io/badge/-Linux-ffffff?logo=linux&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-ffffff?logo=git&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Git-212830?logo=git&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Git" src="https://img.shields.io/badge/-Git-ffffff?logo=git&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Arduino-ffffff?logo=arduino&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Arduino-212830?logo=arduino&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Arduino" src="https://img.shields.io/badge/-Arduino-ffffff?logo=arduino&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
 <picture style="height: 40px;">
     <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C-ffffff?logo=c&logoWidth=20&logoColor=212830&style=flat-square">
     <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C-212830?logo=c&logoWidth=20&logoColor=ffffff&style=flat-square">
@@ -41,6 +56,251 @@ My journey is powered by a love for technology. Here are some of the tools and l
     <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C++-ffffff?logo=cplusplus&logoWidth=20&logoColor=212830&style=flat-square">
     <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-C++-212830?logo=cplusplus&logoWidth=20&logoColor=ffffff&style=flat-square">
     <img style="height: 40px;" alt="C++" src="https://img.shields.io/badge/-C++-ffffff?logo=cplusplus&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-ffffff?logo=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAWlBMVEVHcEwbGxsYGBgZGRkZGRkZGRkZGRkYGBgZGRkZGRkZGRkZGRkZGRkZGRkZGRkaGhoZGRkZGRkZGRkZGRkZGRkYGBgYGBgZGRkYGBgZGRkaGhoZGRkZGRkaGhoY7n2dAAAAHXRSTlMACA/rzpLCIC77hkn0taVBemtk21dQFHIXqzmc4EOeG+gAAAIiSURBVBgZlcEHYptAAATAvV7h6FX7/28GuSSygm00g584vKyd8KrY4VV6x4tGrniNUzR4ievJhFd4RfZ4xZhJJryREhc0gWQE4Nrq1uB3YuWhApIltcfvFs2DFVNF0gj8TmoerPSKDC2usDxoKW9kTrii5aGfEEkOuESTVA7oSY1rFMkWECQrXKPJIAAEMktc0pIKB0sy4hKpSA+gkMwLLhnJGoeaZMQ1hsEBmBTZ46KaBoeOVLjKZAfAkRUum1cAnmHDz0Sazbq2HofkgT0PeOONtmbBf1ydydwJfBp3hzshtk6TvcQzzcOtTd575ybntzQObaytLjhU5IxnNU9Zh7uNXPGfse75KCi7zwnvCrnijPRj0x2GsfgFjyIZcWaqQ8GZRTE4nBA92TfbgoN0pdt7XfCmIhucETe+C4qfdgHAMMw4JxvNR6oeJCDqUHl8b0mz2eu1NrEtE+5EMzv8wFcKn6auw+9cJrWZu242a0/Senxv2sZhw8YnesE3fBXIrKMcNP/RJuFD7fBVySQbgbsptU2McR62CX/JbPGV4cHhW07T4qsSSObG4YxIdWDe8CQp3t3W2Ca/4N3iyzjvNpCsPABR8Ei0NvBRzvx0ix4HrxOeLEOs+sBHoa/i4HDn61DjnPNlHIauG1LxCz5MXcVgcMKNbZF44lJjA0PlcU6Oxmpbx6Zp5q6J+2ozyWAbh5/I0prK9kqFoG66Mm0RePQHxCg0cM6KuacAAAAASUVORK5CYII=&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Java-212830?logo=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAWlBMVEVHcEz///////////////////////////////////////////////////////////////////////////////////////////////////////////////////9f0VzKAAAAHXRSTlMAkiITeEIu+gfHTK5nVQ3wuRo30ttunqbog4jgXsSOat4AAAIjSURBVBgZlcEHYtpAAATAvd7VO+z/vxnhkmAisJjBKxJvywrvWq94V5jwpsKE98iFAm+RAxnxDruQA94Ra5IRH6oKJ2hHcgPQjumiPX7lE3cJMA3ZW/xOBe5CpRqSwuN3Vc9dqOxCuhEn+Ia7UFUX0hmckbkbFFaSBacEkrUEBrLHOQvJDHiSDc4JpPOAd2Rd4ZSRrLELJFecohbSAjAkXYtTCjljN5PccI6gkwDUQg44aabALpMLzhJOAmjJBqeNCYCl6/BaFbVIabTYxQ6YXMEHK0IQCv9pZ0fW2eNbnCRuvO+ugRwqPOq5u4yx66SUStouljKuUxMMAJ9IjUcTDzUtbjoy4T9xHnjPLWHSBp8MmXCkslHnXYnGtri3kSuOqMkZHFE1ncQBP5AX3bXYVdLkaegNPjSkxhF/4SdX89vkAQg6jWOV7nlvmUsF+Nk1Fs+1cRRiTrNYR6Nw47WWeME2i8cXdc34XVuTvRhz1iINJIPFc6qLpUPHB32LJ2xypAurKj3/6YXBl0niJ+NIao8bZbLetlWXTuEvVTf4SXAn8ZQMbPCTcSRrLXHEm9mx7vAgLry5pDVH23rc+NaaMk7BkUwWgDe458fgeM/V/HbZLHa2j3jQlq0ZHO+5IYnS4sbObsax1ppYSr6WaKzCF3Vt6AQOyJiNwgMZdXB0qcOxKorQN9OmtR6z3qYUapIuaIlXKpNFCkNdO1df+iSy8bj3B9AGM8K8vYgDAAAAAElFTkSuQmCC&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Java" src="https://img.shields.io/badge/-Java-ffffff?logo=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAWlBMVEVHcEwbGxsYGBgZGRkZGRkZGRkZGRkYGBgZGRkZGRkZGRkZGRkZGRkZGRkZGRkaGhoZGRkZGRkZGRkZGRkZGRkYGBgYGBgZGRkYGBgZGRkaGhoZGRkZGRkaGhoY7n2dAAAAHXRSTlMACA/rzpLCIC77hkn0taVBemtk21dQFHIXqzmc4EOeG+gAAAIiSURBVBgZlcEHYptAAATAvV7h6FX7/28GuSSygm00g584vKyd8KrY4VV6x4tGrniNUzR4ievJhFd4RfZ4xZhJJryREhc0gWQE4Nrq1uB3YuWhApIltcfvFs2DFVNF0gj8TmoerPSKDC2usDxoKW9kTrii5aGfEEkOuESTVA7oSY1rFMkWECQrXKPJIAAEMktc0pIKB0sy4hKpSA+gkMwLLhnJGoeaZMQ1hsEBmBTZ46KaBoeOVLjKZAfAkRUum1cAnmHDz0Sazbq2HofkgT0PeOONtmbBf1ydydwJfBp3hzshtk6TvcQzzcOtTd575ybntzQObaytLjhU5IxnNU9Zh7uNXPGfse75KCi7zwnvCrnijPRj0x2GsfgFjyIZcWaqQ8GZRTE4nBA92TfbgoN0pdt7XfCmIhucETe+C4qfdgHAMMw4JxvNR6oeJCDqUHl8b0mz2eu1NrEtE+5EMzv8wFcKn6auw+9cJrWZu242a0/Senxv2sZhw8YnesE3fBXIrKMcNP/RJuFD7fBVySQbgbsptU2McR62CX/JbPGV4cHhW07T4qsSSObG4YxIdWDe8CQp3t3W2Ca/4N3iyzjvNpCsPABR8Ei0NvBRzvx0ix4HrxOeLEOs+sBHoa/i4HDn61DjnPNlHIauG1LxCz5MXcVgcMKNbZF44lJjA0PlcU6Oxmpbx6Zp5q6J+2ozyWAbh5/I0prK9kqFoG66Mm0RePQHxCg0cM6KuacAAAAASUVORK5CYII=&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-ffffff?logo=javascript&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-212830?logo=javascript&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffffff?logo=javascript&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-ffffff?logo=typescript&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TypeScript-212830?logo=typescript&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-ffffff?logo=typescript&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PHP-ffffff?logo=php&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PHP-212830?logo=php&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="PHP" src="https://img.shields.io/badge/-PHP-ffffff?logo=php&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-ffffff?logo=python&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Python-212830?logo=python&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Python" src="https://img.shields.io/badge/-Python-ffffff?logo=python&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Vue-ffffff?logo=vue.js&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Vue-212830?logo=vue.js&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Vue" src="https://img.shields.io/badge/-Vue-ffffff?logo=vue.js&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-ffffff?logo=react&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-React-212830?logo=react&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="React" src="https://img.shields.io/badge/-React-ffffff?logo=react&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Svelte-ffffff?logo=svelte&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Svelte-212830?logo=svelte&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Svelte" src="https://img.shields.io/badge/-Svelte-ffffff?logo=svelte&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Angular-ffffff?logo=angular&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Angular-212830?logo=angular&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Angular" src="https://img.shields.io/badge/-Angular-ffffff?logo=angular&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bootstrap-ffffff?logo=bootstrap&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Bootstrap-212830?logo=bootstrap&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-ffffff?logo=bootstrap&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CSS-ffffff?logo=css&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CSS-212830?logo=css&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="CSS" src="https://img.shields.io/badge/-CSS-ffffff?logo=css&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-HTML-ffffff?logo=html5&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-HTML-212830?logo=html5&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="HTML" src="https://img.shields.io/badge/-HTML-ffffff?logo=html5&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Pug-ffffff?logo=pug&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Pug-212830?logo=pug&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Pug" src="https://img.shields.io/badge/-Pug-ffffff?logo=pug&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Sass-ffffff?logo=sass&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Sass-212830?logo=sass&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Sass" src="https://img.shields.io/badge/-Sass-ffffff?logo=sass&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redux-ffffff?logo=redux&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redux-212830?logo=redux&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Redux" src="https://img.shields.io/badge/-Redux-ffffff?logo=redux&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Webpack-ffffff?logo=webpack&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Webpack-212830?logo=webpack&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Webpack" src="https://img.shields.io/badge/-Webpack-ffffff?logo=webpack&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Babel-ffffff?logo=babel&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Babel-212830?logo=babel&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Babel" src="https://img.shields.io/badge/-Babel-ffffff?logo=babel&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TailwindCSS-ffffff?logo=tailwindcss&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TailwindCSS-212830?logo=tailwindcss&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-ffffff?logo=tailwindcss&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Material%20Design-ffffff?logo=materialdesign&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Material%20Design-212830?logo=materialdesign&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Material Design" src="https://img.shields.io/badge/-Material%20Design-ffffff?logo=materialdesign&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MUI-ffffff?logo=mui&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MUI-212830?logo=mui&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="MUI" src="https://img.shields.io/badge/-MUI-ffffff?logo=mui&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Material%20Design%20Icons-ffffff?logo=materialdesignicons&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Material%20Design%20Icons-212830?logo=materialdesignicons&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Material Design Icons" src="https://img.shields.io/badge/-Material%20Design%20Icons-ffffff?logo=materialdesignicons&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bulma-ffffff?logo=bulma&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Bulma-212830?logo=bulma&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Bulma" src="https://img.shields.io/badge/-Bulma-ffffff?logo=bulma&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Node.js-ffffff?logo=node.js&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Node.js-212830?logo=node.js&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Node.js" src="https://img.shields.io/badge/-Node.js-ffffff?logo=node.js&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Spring-ffffff?logo=spring&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Spring-212830?logo=spring&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Spring" src="https://img.shields.io/badge/-Spring-ffffff?logo=spring&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Spring%20Boot-ffffff?logo=springboot&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Spring%20Boot-212830?logo=springboot&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-ffffff?logo=springboot&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Spring%20Security-ffffff?logo=springsecurity&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Spring%20Security-212830?logo=springsecurity&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Spring Security" src="https://img.shields.io/badge/-Spring%20Security-ffffff?logo=springsecurity&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Express-ffffff?logo=express&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Express-212830?logo=express&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Express" src="https://img.shields.io/badge/-Express-ffffff?logo=express&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GraphQL-ffffff?logo=graphql&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-GraphQL-212830?logo=graphql&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-ffffff?logo=graphql&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Apollo%20GraphQL-ffffff?logo=apollographql&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Apollo%20GraphQL-212830?logo=apollographql&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-ffffff?logo=apollographql&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Nginx-ffffff?logo=nginx&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Nginx-212830?logo=nginx&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Nginx" src="https://img.shields.io/badge/-Nginx-ffffff?logo=nginx&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-NestJS-ffffff?logo=nestjs&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-NestJS-212830?logo=nestjs&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="NestJS" src="https://img.shields.io/badge/-NestJS-ffffff?logo=nestjs&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TensorFlow-ffffff?logo=tensorflow&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-TensorFlow-212830?logo=tensorflow&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ffffff?logo=tensorflow&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PyTorch-ffffff?logo=pytorch&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PyTorch-212830?logo=pytorch&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ffffff?logo=pytorch&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Pandas-ffffff?logo=pandas&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Pandas-212830?logo=pandas&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Pandas" src="https://img.shields.io/badge/-Pandas-ffffff?logo=pandas&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-OpenCV-ffffff?logo=opencv&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-OpenCV-212830?logo=opencv&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-ffffff?logo=opencv&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MongoDB-ffffff?logo=mongodb&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MongoDB-212830?logo=mongodb&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffffff?logo=mongodb&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-ffffff?logo=mysql&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MySQL-212830?logo=mysql&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffffff?logo=mysql&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-PostgreSQL-ffffff?logo=postgresql&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-PostgreSQL-212830?logo=postgresql&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffffff?logo=postgresql&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Redis-ffffff?logo=redis&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Redis-212830?logo=redis&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Redis" src="https://img.shields.io/badge/-Redis-ffffff?logo=redis&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MariaDB-ffffff?logo=mariadb&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-MariaDB-212830?logo=mariadb&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-ffffff?logo=mariadb&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQLite-ffffff?logo=sqlite&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-SQLite-212830?logo=sqlite&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="SQLite" src="https://img.shields.io/badge/-SQLite-ffffff?logo=sqlite&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-D3.js-ffffff?logo=d3&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-D3.js-212830?logo=d3&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="D3.js" src="https://img.shields.io/badge/-D3.js-ffffff?logo=d3&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Chart.js-ffffff?logo=chart.js&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Chart.js-212830?logo=chart.js&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-ffffff?logo=chart.js&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Docker-ffffff?logo=docker&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Docker-212830?logo=docker&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Docker" src="https://img.shields.io/badge/-Docker-ffffff?logo=docker&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kubernetes-ffffff?logo=kubernetes&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Kubernetes-212830?logo=kubernetes&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-ffffff?logo=kubernetes&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Bash-ffffff?logo=gnubash&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Bash-212830?logo=gnubash&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Bash" src="https://img.shields.io/badge/-Bash-ffffff?logo=gnubash&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Django-ffffff?logo=django&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Django-212830?logo=django&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Django" src="https://img.shields.io/badge/-Django-ffffff?logo=django&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postman-ffffff?logo=postman&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Postman-212830?logo=postman&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Postman" src="https://img.shields.io/badge/-Postman-ffffff?logo=postman&logoWidth=20&logoColor=212830&style=flat-square">
+</picture>
+<picture style="height: 40px;">
+    <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Next.js-ffffff?logo=nextdotjs&logoWidth=20&logoColor=212830&style=flat-square">
+    <source style="height: 40px;" media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Next.js-212830?logo=nextdotjs&logoWidth=20&logoColor=ffffff&style=flat-square">
+    <img style="height: 40px;" alt="Next.js" src="https://img.shields.io/badge/-Next.js-ffffff?logo=nextdotjs&logoWidth=20&logoColor=212830&style=flat-square">
 </picture>
 <br>
 <br>
