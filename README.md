@@ -311,7 +311,7 @@ My journey is powered by a love for technology. Here are some of the tools and l
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v0.0.2](https://github.com/mrasadatik/basic-java-gui-calculator/releases/tag/v0.0.2) in [mrasadatik/basic-java-gui-calculator](https://github.com/mrasadatik/basic-java-gui-calculator)
+1. ❗ Opened issue [#1](https://github.com/mrasadatik/random-coding-problems-and-solutions/issues/1) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
 2. 🔒 Closed issue [#3](https://github.com/mrasadatik/asadatik.dev/issues/3) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
 3. 🔒 Closed issue [#3](https://github.com/mrasadatik/asadatik.dev/issues/3) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
 4. 🎉 Merged PR [#4](https://github.com/mrasadatik/asadatik.dev/pull/4) in [mrasadatik/asadatik.dev](https://github.com/mrasadatik/asadatik.dev)
