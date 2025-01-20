@@ -1,5 +1,5 @@
 <a href="https://github.com/mrasadatik">
-    <img src="./assets/github-header-image.png" alt="Hello World! I am @mrasadatik" width="100%" />
+    <img src="./assets/github-header-image.png" alt="Hello, world! I am Mr. Md. Asaduzzaman Khan Atik, also known as Mr. AsadAtik or Mr. MAK" width="100%" />
 </a>
 
 I'm a tech enthusiast and programmer with a deep passion for technology, innovation, and sustainable energy. My journey in technology has been an exciting adventure filled with learning, building, and exploring new solutions.
@@ -23,10 +23,10 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 <picture>
     <source style="height: 30px;" media="(prefers-color-scheme: dark)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
     <source style="height: 30px;" media="(prefers-color-scheme: light)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=default&website=true&location=true">
-    <img alt="StackOverflow Profile (user: 13679219)" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
+    <img alt="StackOverflow: 13679219" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
 </picture>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="mrasadatik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
 
 ### 🤖 The Technologies That Inspire Me
 
@@ -128,12 +128,6 @@ Java                     1 repo              ██░░░░░░░░░�
 
 <!--END_SECTION:repository-languages-->
 
-## Support My Work
-
-If you value my work, please consider supporting me on any of these platforms:
-
-<p><a href="https://ko-fi.com/mrasadatik"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrasadatik" /></a></p><br><br>
-
 ## **Contact Me**
 
 **Casual Conversations**
@@ -156,35 +150,16 @@ If you value my work, please consider supporting me on any of these platforms:
 -   **Email:** [help@mr.asadatik.dev](mailto:help@mr.asadatik.dev)
 -   For project-related issues or technical support inquiries — I’m here to assist.
 
-### Important Updates & Announcements
-
-For any major updates, important announcements, or notifications, you will receive them from the following:
-
--   **Email:** [noreply@mr.asadatik.dev](mailto:noreply@mr.asadatik.dev)
--   This is a one-way channel for formal announcements. No replies necessary.
-
-### Stay Informed with My Newsletter
-
-Want to keep up with my latest projects, updates, and insights? You can subscribe to my newsletter:
-
--   **Subscribe Here:** [https://mr.asadatik.dev/subscribe](https://mr.asadatik.dev/subscribe)
--   Unsubscribe Link: [https://mr.asadatik.dev/unsubscribe](https://mr.asadatik.dev/unsubscribe)
-
-Emails you'll receive from:
-
--   Newsletter Updates:
-    -   **Email:** \<newsletter-uuid\>@newsletter.asadatik.dev
-    -   When you subscribe, a newsletter-uuid will be generated for you, which will be used in the email address for newsletter communication.
-
-Please note, the newsletter is a one-way communication. You will only receive updates, and replies are not monitored.
-
----
-
 🚫 **No Other Public Emails**
 
 For clarity, I do not use any other public-facing email addresses. All official communication should be directed to the emails listed above. Please be cautious of any other email outreach.
 
----
+> Important Updates & Announcements
+>
+> For any major updates, important announcements, or notifications, you will receive them from the following:
+>
+> -   **Email:** [noreply@mr.asadatik.dev](mailto:noreply@mr.asadatik.dev)
+> -   This is a one-way channel for formal announcements. No replies necessary.
 
 ## Connect with Me on Social Platforms
 
@@ -279,5 +254,28 @@ Let’s stay in touch through my social media channels:
 </p>
 
 **You can track my activities in more detail on my website: [https://mr.asadatik.dev](https://mr.asadatik.dev)**
+
+## Stay Informed with My Newsletter
+
+Want to keep up with my latest projects, updates, and insights? You can subscribe to my newsletter:
+
+-   **Subscribe Here:** [https://mr.asadatik.dev/subscribe](https://mr.asadatik.dev/subscribe)
+-   Unsubscribe Link: [https://mr.asadatik.dev/unsubscribe](https://mr.asadatik.dev/unsubscribe)
+
+Emails you'll receive from:
+
+-   Newsletter Updates:
+    -   **Email:** \<newsletter-uuid\>@newsletter.asadatik.dev
+    -   When you subscribe, a newsletter-uuid will be generated for you, which will be used in the email address for newsletter communication.
+
+Please note, the newsletter is a one-way communication. You will only receive updates, and replies are not monitored.
+
+## Support My Work
+
+If you value my work, please consider supporting me on any of these platforms:
+
+<p><a href="https://ko-fi.com/mrasadatik"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="ko-fi: mrasadatik" /></a></p>
+
+---
 
 > Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)
