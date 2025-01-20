@@ -274,8 +274,6 @@ Please note, the newsletter is a one-way communication. You will only receive up
 
 If you value my work, please consider supporting me on any of these platforms:
 
-<p><a href="https://ko-fi.com/mrasadatik"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="ko-fi: mrasadatik" /></a></p>
-
----
+<p><a href="https://ko-fi.com/mrasadatik"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="ko-fi: mrasadatik" /></a></p><br><br><br><br><br>
 
 > Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)
