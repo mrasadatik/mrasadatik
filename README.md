@@ -311,11 +311,11 @@ My journey is powered by a love for technology. Here are some of the tools and l
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.0](https://github.com/mrasadatik/crimson-care/releases/tag/v1.0.0) in [mrasadatik/crimson-care](https://github.com/mrasadatik/crimson-care)
-2. 🎉 Merged PR [#17](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/17) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
-3. 💪 Opened PR [#17](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/17) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
-4. 🎉 Merged PR [#16](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/16) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
-5. 💪 Opened PR [#16](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/16) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
+1. 🚀 Published release [v1.0.1](https://github.com/mrasadatik/crimson-care/releases/tag/v1.0.1) in [mrasadatik/crimson-care](https://github.com/mrasadatik/crimson-care)
+2. 🚀 Published release [v1.0.0](https://github.com/mrasadatik/crimson-care/releases/tag/v1.0.0) in [mrasadatik/crimson-care](https://github.com/mrasadatik/crimson-care)
+3. 🎉 Merged PR [#17](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/17) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
+4. 💪 Opened PR [#17](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/17) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
+5. 🎉 Merged PR [#16](https://github.com/mrasadatik/random-coding-problems-and-solutions/pull/16) in [mrasadatik/random-coding-problems-and-solutions](https://github.com/mrasadatik/random-coding-problems-and-solutions)
  <!--END_SECTION:activity-->
 
 <!--START_SECTION:commit-time-distribution-->
