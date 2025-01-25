@@ -30,7 +30,7 @@ Technology has been a pivotal part of my life, allowing me to innovate and colla
 
 ### 🤖 The Technologies and Languages That Inspire Me
 
-My journey is powered by a love for technology. Here are some of the tools and languages that I work with:
+My journey is powered by a love for technology. Here are some of the tools and languages that inspire me the most:
 
 <picture style="height: 40px;">
     <source style="height: 40px;" media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Linux-ffffff?logo=linux&logoWidth=20&logoColor=212830&style=flat-square">
