@@ -352,17 +352,16 @@ Sunday                   95 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Git                      0 secs              █████████████████████░░░░   85.84 % 
-Git Config               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CrimsonCare              0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
