@@ -371,10 +371,10 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-C                        4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
+C                        4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Shell                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
