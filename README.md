@@ -311,11 +311,11 @@ My journey is powered by a love for technology. Here are some of the tools and l
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3](https://github.com/arculetHQ/arcuvim/issues/3) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
-2. 🎉 Merged PR [#2](https://github.com/arculetHQ/arcuvim/pull/2) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
-3. 💪 Opened PR [#2](https://github.com/arculetHQ/arcuvim/pull/2) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
-4. 🎉 Merged PR [#1](https://github.com/arculetHQ/arculet.nvim/pull/1) in [arculetHQ/arculet.nvim](https://github.com/arculetHQ/arculet.nvim)
-5. 💪 Opened PR [#1](https://github.com/arculetHQ/arculet.nvim/pull/1) in [arculetHQ/arculet.nvim](https://github.com/arculetHQ/arculet.nvim)
+1. 🎉 Merged PR [#4](https://github.com/arculetHQ/arcuvim/pull/4) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
+2. 💪 Opened PR [#4](https://github.com/arculetHQ/arcuvim/pull/4) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
+3. ❗ Opened issue [#3](https://github.com/arculetHQ/arcuvim/issues/3) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
+4. 🎉 Merged PR [#2](https://github.com/arculetHQ/arcuvim/pull/2) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
+5. 💪 Opened PR [#2](https://github.com/arculetHQ/arcuvim/pull/2) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
  <!--END_SECTION:activity-->
 
 <!--START_SECTION:commit-time-distribution-->
