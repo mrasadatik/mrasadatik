@@ -9,7 +9,7 @@ I'm a tech enthusiast and programmer with a deep passion for technology, innovat
 Technology has been a pivotal part of my life, allowing me to innovate and collaborate. Here's a snapshot of my journey:
 
 <!--START_SECTION:coding-time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2041%20mins-blue)
 
 
 <!--END_SECTION:coding-time-->
