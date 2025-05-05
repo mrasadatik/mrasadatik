@@ -311,8 +311,8 @@ My journey is powered by a love for technology. Here are some of the tools and l
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#8](https://github.com/arculetHQ/arcuvim/issues/8) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
-2. 🎉 Merged PR [#9](https://github.com/arculetHQ/arcuvim/pull/9) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
+1. 🎉 Merged PR [#2](https://github.com/mrasadatik/skills-introduction-to-github/pull/2) in [mrasadatik/skills-introduction-to-github](https://github.com/mrasadatik/skills-introduction-to-github)
+2. 💪 Opened PR [#2](https://github.com/mrasadatik/skills-introduction-to-github/pull/2) in [mrasadatik/skills-introduction-to-github](https://github.com/mrasadatik/skills-introduction-to-github)
 3. 💪 Opened PR [#9](https://github.com/arculetHQ/arcuvim/pull/9) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
 4. ❗ Opened issue [#8](https://github.com/arculetHQ/arcuvim/issues/8) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
 5. 🔒 Closed issue [#6](https://github.com/arculetHQ/arcuvim/issues/6) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
