@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
 
-📚 **Latest Writings on DEV.to by [@mrasadatik](https://www.dev.to/mrasadatik)**
+📚 **Latest Writings on [DEV.to](https://www.dev.to/mrasadatik)**
 
 <!-- blog-devto:START -->
 - [Skill Is Wealth: The Hidden Blueprint Behind Every Fortune](https://dev.to/mrasadatik/skill-is-wealth-the-hidden-blueprint-behind-every-fortune-38hf)
