@@ -20,6 +20,8 @@
 
 <p align="left"> <a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
 
+📚 **Latest Writings on DEV.to by [@mrasadatik](https://www.dev.to/mrasadatik)**
+
 <!-- blog-devto:START -->
 - [Skill Is Wealth: The Hidden Blueprint Behind Every Fortune](https://dev.to/mrasadatik/skill-is-wealth-the-hidden-blueprint-behind-every-fortune-38hf)
 - [🧠 Don’t Let AI Make You Dumb: My Real Strategy for Learning, Working, and Thriving as a Developer](https://dev.to/mrasadatik/dont-let-ai-make-you-dumb-my-real-strategy-for-learning-working-and-thriving-as-a-developer-3fk6)
