@@ -20,6 +20,9 @@
 
 <p align="left"> <a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
 
+<!-- blog-devto:START -->
+<!-- blog-devto:END -->
+
 🛠️ **Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
