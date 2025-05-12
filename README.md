@@ -21,6 +21,11 @@
 <p align="left"> <a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
 
 <!-- blog-devto:START -->
+- [Skill Is Wealth: The Hidden Blueprint Behind Every Fortune](https://dev.to/mrasadatik/skill-is-wealth-the-hidden-blueprint-behind-every-fortune-38hf)
+- [🧠 Don’t Let AI Make You Dumb: My Real Strategy for Learning, Working, and Thriving as a Developer](https://dev.to/mrasadatik/dont-let-ai-make-you-dumb-my-real-strategy-for-learning-working-and-thriving-as-a-developer-3fk6)
+- [Enough Ghibling: A Manifesto to Master AI, Not Smother It with Studio Ghibli Spam](https://dev.to/mrasadatik/enough-ghibling-a-manifesto-to-master-ai-not-smother-it-with-studio-ghibli-spam-10c9)
+- [🚀 TypeScript is Moving to Go! But Why? The Mind-Blowing Reason Behind the Switch](https://dev.to/mrasadatik/typescript-is-moving-to-go-but-why-the-mind-blowing-reason-behind-the-switch-5hm2)
+- [Stop Blaming Universities: The Truth About Learning and Success 🎓🔥](https://dev.to/mrasadatik/stop-blaming-universities-the-truth-about-learning-and-success-5116)
 <!-- blog-devto:END -->
 
 🛠️ **Recent GitHub Activity**
