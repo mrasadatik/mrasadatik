@@ -128,7 +128,7 @@ jobs:
       - name: Update the Blog post from Dev.to
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_link: "https://dev.to/feed/mrasadatik"
+          feed_links: "https://dev.to/feed/mrasadatik"
           feed_names: "Dev.to"
           gh_token: ${{ secrets.GH_TOKEN }}
           commit_message: "doc(blog-dev.to): Update Dev.to Blog section in README"
