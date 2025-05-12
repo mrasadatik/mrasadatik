@@ -32,7 +32,7 @@ jobs:
           SHOW_LOC_CHART: False
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      # Step 1: Update Code Time
+      # Step 2: Update Code Time
       - name: Update the Code Time
         uses: anmol098/waka-readme-stats@master
         with:
@@ -55,7 +55,7 @@ jobs:
           SHOW_LOC_CHART: False
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      # Step 1: Update Commit Stats by Time Period
+      # Step 3: Update Commit Stats by Time Period
       - name: Update the Commit Stats by Time Period
         uses: anmol098/waka-readme-stats@master
         with:
@@ -78,7 +78,7 @@ jobs:
           SHOW_LOC_CHART: False
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      # Step 1: Update Spent Time On Stats
+      # Step 4: Update Spent Time On Stats
       - name: Update the Spent Time On Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -101,7 +101,7 @@ jobs:
           SHOW_LOC_CHART: False
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      # Step 1: Update Language Per Repo Stats
+      # Step 5: Update Language Per Repo Stats
       - name: Update the Language Per Repo Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -124,3 +124,12 @@ jobs:
           SHOW_LOC_CHART: False
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      # Step 6: Update Blog post from Dev.to
+      - name: Update the Blog post from Dev.to
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_link: "https://dev.to/feed/mrasadatik"
+          feed_names: "Dev.to"
+          gh_token: ${{ secrets.GH_TOKEN }}
+          commit_message: "doc(blog-dev.to): Update Dev.to Blog section in README"
+          comment_tag_name: "blog-devto"
