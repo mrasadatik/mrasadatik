@@ -1,7 +1,7 @@
 <img src="./assets/github-header-image.png" alt="Hello, world! I am Mr. Md. Asaduzzaman Khan Atik, also known as Mr. AsadAtik or Mr. MAK" width="100%" />
 
 <!--START_SECTION:coding-time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2022%20mins-blue)
 
 
 <!--END_SECTION:coding-time-->
