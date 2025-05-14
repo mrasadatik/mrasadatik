@@ -30,17 +30,6 @@
 - [🚀 TypeScript is Moving to Go! But Why? The Mind-Blowing Reason Behind the Switch](https://dev.to/mrasadatik/typescript-is-moving-to-go-but-why-the-mind-blowing-reason-behind-the-switch-5hm2)
 <!-- blog-devto:END -->
 
-🛠️ **Recent GitHub Activity**
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#2](https://github.com/mrasadatik/skills-introduction-to-github/pull/2) in [mrasadatik/skills-introduction-to-github](https://github.com/mrasadatik/skills-introduction-to-github)
-2. 💪 Opened PR [#2](https://github.com/mrasadatik/skills-introduction-to-github/pull/2) in [mrasadatik/skills-introduction-to-github](https://github.com/mrasadatik/skills-introduction-to-github)
-3. 💪 Opened PR [#9](https://github.com/arculetHQ/arcuvim/pull/9) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
-4. ❗ Opened issue [#8](https://github.com/arculetHQ/arcuvim/issues/8) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
-5. 🔒 Closed issue [#6](https://github.com/arculetHQ/arcuvim/issues/6) in [arculetHQ/arcuvim](https://github.com/arculetHQ/arcuvim)
- <!--END_SECTION:activity-->
-
 <!--START_SECTION:commit-time-distribution-->
 **I'm an Early 🐤** 
 
@@ -108,11 +97,6 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:repository-languages-->
-
-## Support My Work
-
-If you value my work, please consider supporting me on any of these platforms:
-
-<p><a href="https://ko-fi.com/mrasadatik"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" alt="ko-fi: mrasadatik" /></a></p><br><br><br><br><br>
+<br><br><br><br><br>
 
 > Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=pixel)
