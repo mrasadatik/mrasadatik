@@ -12,13 +12,13 @@
 
 <!--END_SECTION:lines-of-code-->
 
-<picture>
+<p align="left"><a href="https://stackoverflow.com/users/13679219/mrasadatik"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
     <source media="(prefers-color-scheme: light)" srcset="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=default&website=true&location=true">
     <img alt="StackOverflow: 13679219" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
-</picture>
+</picture></a></p>
 
-<p align="left"> <a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a> </p>
+<p align="left"><a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a></p>
 
 📚 **Latest Writings on [DEV.to](https://www.dev.to/mrasadatik)**
 
@@ -97,6 +97,3 @@ Lua                      1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:repository-languages-->
-<br><br><br><br><br>
-
-> Thank you for stopping by my profile! I'm eager to connect and collaborate with you. Also, a big thanks to the many visitors who have been here. ![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=flat-square)![Profile views](https://komarev.com/ghpvc/?username=mrasadatik&style=pixel)
