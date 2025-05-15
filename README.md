@@ -18,7 +18,7 @@
     <img alt="StackOverflow: 13679219" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13679219?theme=dark&website=true&location=true">
 </picture></a></p>
 
-<p align="left"><a href="https://github.com/mrasadatik"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a></p>
+<p align="left"><a href="[https://github.com/mrasadatik](https://github-profile-trophy.vercel.app/?username=mrasadatik)"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a></p>
 
 📚 **Latest Writings on [DEV.to](https://www.dev.to/mrasadatik)**
 
