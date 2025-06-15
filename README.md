@@ -20,7 +20,7 @@
 
 <p align="left"><a href="[https://github.com/mrasadatik](https://github-profile-trophy.vercel.app/?username=mrasadatik)"><img src="https://github-profile-trophy.vercel.app/?username=mrasadatik" alt="GitHub Profile Trophy: mrasadatik" /></a></p>
 
-📚 **Latest Writings on [DEV.to](https://www.dev.to/mrasadatik)**
+📚 **My latest Writings**
 
 <!-- blog-devto:START -->
 - [AI Will Replace You &lpar;But Not How You Think&rpar;: Win the Job Race](https://dev.to/mrasadatik/ai-will-replace-you-but-not-how-you-think-win-the-job-race-34ka)
