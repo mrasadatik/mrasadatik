@@ -23,11 +23,11 @@
 📚 **My latest Writings**
 
 <!-- blog-devto:START -->
+- [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-4c25)
+- [[Boost]](https://dev.to/mrasadatik/-4jil)
 - [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-2jc1)
 - [AI Browsers and Prompt Injection: The New Cybersecurity Frontier](https://dev.to/mrasadatik/ai-browsers-and-prompt-injection-the-new-cybersecurity-frontier-41eo)
 - [Is Skill Really Wealth? Or a Trap in Digital Feudalism?](https://dev.to/mrasadatik/is-skill-really-wealth-or-a-trap-in-digital-feudalism-4138)
-- [Why the &quot;Dinosaur Book&quot;? The Story Behind the Operating System Concepts Cover](https://dev.to/mrasadatik/why-the-dinosaur-book-uncovering-the-symbolic-story-behind-the-operating-system-concepts-cover-4cne)
-- [AI Will Replace You &lpar;But Not How You Think&rpar;: Win the Job Race](https://dev.to/mrasadatik/ai-will-replace-you-but-not-how-you-think-win-the-job-race-34ka)
 <!-- blog-devto:END -->
 
 <!--START_SECTION:commit-time-distribution-->
