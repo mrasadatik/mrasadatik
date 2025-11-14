@@ -23,11 +23,11 @@
 📚 **My latest Writings**
 
 <!-- blog-devto:START -->
+- [🌐 Agentic AI in 2025: How Autonomous Software Is Quietly Becoming the New Found](https://dev.to/mrasadatik/agentic-ai-in-2025-how-autonomous-software-is-quietly-becoming-the-new-found-5dl3)
 - [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-4c25)
 - [[Boost]](https://dev.to/mrasadatik/-4jil)
 - [Programming Languages Lie: Variables Aren’t What You Think They Are](https://dev.to/mrasadatik/programming-languages-lie-variables-arent-what-you-think-they-are-2jc1)
 - [AI Browsers and Prompt Injection: The New Cybersecurity Frontier](https://dev.to/mrasadatik/ai-browsers-and-prompt-injection-the-new-cybersecurity-frontier-41eo)
-- [Is Skill Really Wealth? Or a Trap in Digital Feudalism?](https://dev.to/mrasadatik/is-skill-really-wealth-or-a-trap-in-digital-feudalism-4138)
 <!-- blog-devto:END -->
 
 <!--START_SECTION:commit-time-distribution-->
