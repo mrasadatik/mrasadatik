@@ -62,17 +62,16 @@ Sunday                   307 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-INI                      15 mins             ████████████████████████░   94.72 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-academy.arculet.com      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
