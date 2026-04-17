@@ -33,41 +33,6 @@
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   770 commits         ██████████░░░░░░░░░░░░░░░   40.36 % 
-Tuesday                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Wednesday                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Friday                   89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Saturday                 77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Sunday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ████████████████████░░░░░   80.29 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-academy.arculet.com      2 hrs 36 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:spent-time-on-stats-->
 
