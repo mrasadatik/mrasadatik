@@ -27,16 +27,6 @@
 <!-- blog-devto:END -->
 
 <!--START_SECTION:commit-time-distribution-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                954 commits         █████████░░░░░░░░░░░░░░░░   37.62 % 
-🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-🌃 Evening                857 commits         ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌙 Night                  428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-```
-
-
 
 <!--END_SECTION:commit-time-distribution-->
 
