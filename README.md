@@ -62,16 +62,20 @@ Sunday                   364 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   18 mins             ████████████████░░░░░░░░░   64.96 % 
+HTML                     9 mins              ████████░░░░░░░░░░░░░░░░░   33.53 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ewutc.com                18 mins             █████████████████░░░░░░░░   66.47 % 
+Unknown Project          9 mins              ████████░░░░░░░░░░░░░░░░░   33.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 
