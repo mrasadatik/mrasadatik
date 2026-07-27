@@ -45,6 +45,8 @@ No AI Coding Activity Tracked This Week
 <!-- blog-devto:END -->
 
 <!--START_SECTION:commit-time-distribution-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%207%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -54,6 +56,12 @@ No AI Coding Activity Tracked This Week
 🌙 Night                  463 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 
 <!--END_SECTION:commit-time-distribution-->
