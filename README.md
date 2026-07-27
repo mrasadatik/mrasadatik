@@ -116,6 +116,14 @@ No AI Coding Activity Tracked This Week
 <!--END_SECTION:spent-time-on-stats-->
 
 <!--START_SECTION:repository-languages-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%207%20mins-blue?style=flat)
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
