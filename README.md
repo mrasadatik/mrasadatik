@@ -67,6 +67,8 @@ No AI Coding Activity Tracked This Week
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%207%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Monday** 
 
 ```text
@@ -86,20 +88,28 @@ Sunday                   364 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Svelte                   18 mins             ████████████████░░░░░░░░░   64.96 % 
-HTML                     9 mins              ████████░░░░░░░░░░░░░░░░░   33.53 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               1 hr 8 mins         ████████████████░░░░░░░░░   64.74 % 
+Svelte                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ewutc.com                18 mins             █████████████████░░░░░░░░   66.47 % 
-Unknown Project          9 mins              ████████░░░░░░░░░░░░░░░░░   33.53 % 
+academy                  1 hr 17 mins        ██████████████████░░░░░░░   73.71 % 
+ewutc.com                18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
