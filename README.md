@@ -64,13 +64,13 @@ No AI Coding Activity Tracked This Week
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   838 commits         ████████░░░░░░░░░░░░░░░░░   32.38 % 
-Tuesday                  347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Wednesday                318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Thursday                 276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Friday                   169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Saturday                 276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Sunday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Monday                   839 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
+Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Friday                   171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Saturday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Sunday                   367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
 
@@ -80,22 +80,22 @@ Sunday                   364 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ████████████████░░░░░░░░░   64.74 % 
-Svelte                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript               1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   39.49 % 
+HTML                     1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   37.46 % 
+Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Svelte                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-academy                  1 hr 17 mins        ██████████████████░░░░░░░   73.71 % 
-ewutc.com                18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+academy                  1 hr 17 mins        ███████████░░░░░░░░░░░░░░   44.96 % 
+Unknown Project          1 hr 16 mins        ███████████░░░░░░░░░░░░░░   44.38 % 
+ewutc.com                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
