@@ -88,22 +88,23 @@ Sunday                   367 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   41.34 % 
-TypeScript               1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   37.04 % 
-Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Svelte                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
+HTML                     1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.24 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Svelte                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 28 mins        ████████████░░░░░░░░░░░░░   47.83 % 
-academy                  1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.17 % 
-ewutc.com                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Unknown Project          1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   38.45 % 
+academy                  1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.20 % 
+badge-engine-main        39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+ewutc.com                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
