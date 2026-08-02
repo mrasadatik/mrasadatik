@@ -99,7 +99,7 @@ Github-Copilot           32 lines            ███████████�
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2056%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -120,29 +120,45 @@ Sunday                   367 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
-HTML                     1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   33.24 % 
-Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Svelte                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+TypeScript               1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   31.82 % 
+HTML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+JSON                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   38.45 % 
-academy                  1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   36.20 % 
-badge-engine-main        39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-ewutc.com                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+academy                  1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+Unknown Project          1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+arculet                  1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+badge-engine-main        39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 49 mins (17.72%)
+
+✍️ 32 lines written by AI, 857 lines written by hand (3.6% AI-written)
+
+🔤 34,302 Input Tokens, 958 Output Tokens
+
+💵 $0.12 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 6 AI Prompts
+
+Github-Copilot           32 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.6% of written lines came from AI
+📝 Concise Prompter — average 32 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 96.83% of changed lines were hand-edited
 ```
 
 
