@@ -165,12 +165,28 @@ Github-Copilot           32 lines            ███████████�
 <!--END_SECTION:spent-time-on-stats-->
 
 <!--START_SECTION:repository-languages-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2056%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 49 mins (17.72%)
+
+✍️ 32 lines written by AI, 857 lines written by hand (3.6% AI-written)
+
+🔤 34,302 Input Tokens, 958 Output Tokens
+
+💵 $0.12 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 6 AI Prompts
+
+Github-Copilot           32 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.6% of written lines came from AI
+📝 Concise Prompter — average 32 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 96.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
