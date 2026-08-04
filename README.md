@@ -1,31 +1,9 @@
 <p align="left"><a href="https://mr.asadatik.dev"><img src="./assets/github-header-image.png" alt="Hello, world! I am Mr. Md. Asaduzzaman Khan Atik, also known as Mr. AsadAtik or Mr. MAK" width="100%" /></a></p>
 
 <!--START_SECTION:coding-time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2056%20mins-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 49 mins (17.72%)
-
-✍️ 32 lines written by AI, 857 lines written by hand (3.6% AI-written)
-
-🔤 34,302 Input Tokens, 958 Output Tokens
-
-💵 $0.12 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-Github-Copilot           32 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.6% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 96.83% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2010%20mins-blue?style=flat)
 
 
 <!--END_SECTION:coding-time-->
