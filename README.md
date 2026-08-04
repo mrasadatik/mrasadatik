@@ -55,38 +55,40 @@ Github-Copilot           32 lines            ███████████�
 <!-- blog-devto:END -->
 
 <!--START_SECTION:commit-time-distribution-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                981 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
-🌆 Daytime                306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-🌃 Evening                869 commits         ████████░░░░░░░░░░░░░░░░░   33.13 % 
-🌙 Night                  467 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+🌞 Morning                974 commits         █████████░░░░░░░░░░░░░░░░   37.23 % 
+🌆 Daytime                306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌃 Evening                869 commits         ████████░░░░░░░░░░░░░░░░░   33.22 % 
+🌙 Night                  467 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (17.72%)
+⏱ AI Coding Time: 3 hrs 50 mins (43.9%)
 
-✍️ 32 lines written by AI, 857 lines written by hand (3.6% AI-written)
+✍️ 2,537 lines written by AI, 356 lines written by hand (87.69% AI-written)
 
-🔤 34,302 Input Tokens, 958 Output Tokens
+🔤 1,577,964 Input Tokens, 4,083 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $4.80 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 4 AI Sessions, 36 AI Prompts
 
-Github-Copilot           32 lines            █████████████████████████   100.00 % 
+Github-Copilot           2,354 lines         ███████████████████████░░   92.50 % 
+Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Sonnet                   56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.6% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 96.83% of changed lines were hand-edited
+🤖 AI-Driven — 87.69% of written lines came from AI
+📄 Detailed Prompter — average 1,014 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 22.93% of changed lines were hand-edited
 ```
 
 
