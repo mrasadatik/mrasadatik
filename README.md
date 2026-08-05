@@ -196,9 +196,9 @@ Sonnet                   56 lines            █░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (43.9%)
+⏱ AI Coding Time: 3 hrs 50 mins (37.41%)
 
-✍️ 2,537 lines written by AI, 356 lines written by hand (87.69% AI-written)
+✍️ 2,537 lines written by AI, 570 lines written by hand (81.65% AI-written)
 
 🔤 1,577,964 Input Tokens, 4,083 Output Tokens
 
@@ -211,10 +211,10 @@ Gemini                   135 lines           █░░░░░░░░░░�
 Sonnet                   56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.69% of written lines came from AI
+🤖 AI-Driven — 81.65% of written lines came from AI
 📄 Detailed Prompter — average 1,014 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 22.93% of changed lines were hand-edited
+🚀 High AI Trust — 28.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
