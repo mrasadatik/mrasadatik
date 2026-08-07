@@ -1,6 +1,36 @@
 <p align="left"><a href="https://mr.asadatik.dev"><img src="./assets/github-header-image.png" alt="Hello, world! I am Mr. Md. Asaduzzaman Khan Atik, also known as Mr. AsadAtik or Mr. MAK" width="100%" /></a></p>
 
 <!--START_SECTION:coding-time-->
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%206%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2059%20mins-blue?style=flat)
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 39 mins (26.57%)
+
+✍️ 2,812 lines written by AI, 3,457 lines written by hand (44.86% AI-written)
+
+🔤 2,318,414 Input Tokens, 59,252 Output Tokens
+
+💵 $18.47 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 72 AI Prompts
+
+Github-Copilot           2,354 lines         █████████████████████░░░░   83.48 % 
+Claude-Code              275 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Sonnet                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 44.86% of written lines came from AI
+📄 Detailed Prompter — average 517 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 59.83% of changed lines were hand-edited
+```
+
 
 <!--END_SECTION:coding-time-->
 
