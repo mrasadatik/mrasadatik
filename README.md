@@ -33,33 +33,7 @@ Sonnet                   56 lines            █░░░░░░░░░░�
 <!--END_SECTION:coding-time-->
 
 <!--START_SECTION:lines-of-code-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2010%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.91%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 50 mins (43.9%)
-
-✍️ 2,537 lines written by AI, 356 lines written by hand (87.69% AI-written)
-
-🔤 1,577,964 Input Tokens, 4,083 Output Tokens
-
-💵 $4.80 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 36 AI Prompts
-
-Github-Copilot           2,354 lines         ███████████████████████░░   92.50 % 
-Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Sonnet                   56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 87.69% of written lines came from AI
-📄 Detailed Prompter — average 1,014 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 22.93% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:lines-of-code-->
