@@ -72,13 +72,13 @@ Sonnet                   56 lines            █░░░░░░░░░░�
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   832 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
-Tuesday                  361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Wednesday                336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Friday                   171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Saturday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Sunday                   367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Monday                   832 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Tuesday                  361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Wednesday                336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Thursday                 291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Friday                   171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Saturday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Sunday                   367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 ```
 
 
@@ -88,33 +88,33 @@ Sunday                   367 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 6 hrs 46 mins       ████████████████░░░░░░░░░   65.88 % 
-TypeScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown                 11 hrs 53 mins      ███████████████████░░░░░░   76.94 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 29 mins       ███████████████████████░░   92.33 % 
-Antigravity IDE          47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+VS Code                  14 hrs 40 mins      ████████████████████████░   94.90 % 
+Antigravity IDE          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🐱‍💻 Projects: 
-academic-suite-for-ewuian6 hrs 59 mins       █████████████████░░░░░░░░   68.01 % 
-arculet                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-badge-engine-main        55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-academy                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+academic-suite-for-ewuian12 hrs 9 mins       ████████████████████░░░░░   78.72 % 
+arculet                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+badge-engine-main        55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+academy                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (37.41%)
+⏱ AI Coding Time: 3 hrs 50 mins (24.89%)
 
-✍️ 2,537 lines written by AI, 570 lines written by hand (81.65% AI-written)
+✍️ 2,537 lines written by AI, 1,040 lines written by hand (70.93% AI-written)
 
 🔤 1,577,964 Input Tokens, 4,083 Output Tokens
 
@@ -127,10 +127,10 @@ Gemini                   135 lines           █░░░░░░░░░░�
 Sonnet                   56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.65% of written lines came from AI
+🤖 AI-Driven — 70.93% of written lines came from AI
 📄 Detailed Prompter — average 1,014 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 28.67% of changed lines were hand-edited
+🚀 High AI Trust — 37.76% of changed lines were hand-edited
 ```
 
 
