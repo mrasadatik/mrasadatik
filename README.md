@@ -35,32 +35,34 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 <!--END_SECTION:coding-time-->
 
 <!--START_SECTION:lines-of-code-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.92%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (24.89%)
+⏱ AI Coding Time: 5 hrs 39 mins (26.57%)
 
-✍️ 2,537 lines written by AI, 1,040 lines written by hand (70.93% AI-written)
+✍️ 2,812 lines written by AI, 3,457 lines written by hand (44.86% AI-written)
 
-🔤 1,577,964 Input Tokens, 4,083 Output Tokens
+🔤 2,318,414 Input Tokens, 59,252 Output Tokens
 
-💵 $4.80 Estimated AI Cost This Week
+💵 $18.47 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 36 AI Prompts
+🧠 9 AI Sessions, 72 AI Prompts
 
-Github-Copilot           2,354 lines         ███████████████████████░░   92.50 % 
-Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Sonnet                   56 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Github-Copilot           2,354 lines         █████████████████████░░░░   83.48 % 
+Claude-Code              275 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Sonnet                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.93% of written lines came from AI
-📄 Detailed Prompter — average 1,014 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 37.76% of changed lines were hand-edited
+⚖️ Balanced with AI — 44.86% of written lines came from AI
+📄 Detailed Prompter — average 517 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 59.83% of changed lines were hand-edited
 ```
 
 
