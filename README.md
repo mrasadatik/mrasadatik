@@ -1,34 +1,34 @@
 <p align="left"><a href="https://mr.asadatik.dev"><img src="./assets/github-header-image.png" alt="Hello, world! I am Mr. Md. Asaduzzaman Khan Atik, also known as Mr. AsadAtik or Mr. MAK" width="100%" /></a></p>
 
 <!--START_SECTION:coding-time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%206%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (26.57%)
+⏱ AI Coding Time: 7 hrs 46 mins (34.21%)
 
-✍️ 2,812 lines written by AI, 3,457 lines written by hand (44.86% AI-written)
+✍️ 2,935 lines written by AI, 3,433 lines written by hand (46.09% AI-written)
 
-🔤 2,318,414 Input Tokens, 59,252 Output Tokens
+🔤 3,952,285 Input Tokens, 127,014 Output Tokens
 
-💵 $18.47 Estimated AI Cost This Week
+💵 $38.61 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 72 AI Prompts
+🧠 12 AI Sessions, 85 AI Prompts
 
-Github-Copilot           2,354 lines         █████████████████████░░░░   83.48 % 
-Claude-Code              275 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Sonnet                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Github-Copilot           2,354 lines         ███████████████████░░░░░░   77.18 % 
+Claude-Code              505 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Sonnet                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.86% of written lines came from AI
-📄 Detailed Prompter — average 517 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 59.83% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.09% of written lines came from AI
+📝 Concise Prompter — average 461 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 57.79% of changed lines were hand-edited
 ```
 
 
