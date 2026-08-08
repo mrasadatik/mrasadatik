@@ -127,18 +127,18 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%206%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   832 commits         ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Friday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Saturday                 279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Sunday                   367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Monday                   832 commits         ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Saturday                 281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Sunday                   368 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
 
@@ -148,51 +148,51 @@ Sunday                   367 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 13 hrs 1 min        ███████████████░░░░░░░░░░   61.18 % 
-JSON                     3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Bash                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown                 13 hrs 42 mins      ███████████████░░░░░░░░░░   60.30 % 
+JSON                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+TypeScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 29 mins      ████████████████████████░   96.29 % 
-Antigravity IDE          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+VS Code                  21 hrs 57 mins      ████████████████████████░   96.53 % 
+Antigravity IDE          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-academic-suite-for-ewuian15 hrs 41 mins      ██████████████████░░░░░░░   73.73 % 
-ewusuite                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-arculet                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-badge-engine-main        55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-academy                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+academic-suite-for-ewuian15 hrs 41 mins      █████████████████░░░░░░░░   68.98 % 
+ewusuite                 4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+arculet                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+academy                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+OmniRoute                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  21 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (26.57%)
+⏱ AI Coding Time: 7 hrs 46 mins (34.21%)
 
-✍️ 2,812 lines written by AI, 3,457 lines written by hand (44.86% AI-written)
+✍️ 2,935 lines written by AI, 3,433 lines written by hand (46.09% AI-written)
 
-🔤 2,318,414 Input Tokens, 59,252 Output Tokens
+🔤 3,952,285 Input Tokens, 127,014 Output Tokens
 
-💵 $18.47 Estimated AI Cost This Week
+💵 $38.61 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 72 AI Prompts
+🧠 12 AI Sessions, 85 AI Prompts
 
-Github-Copilot           2,354 lines         █████████████████████░░░░   83.48 % 
-Claude-Code              275 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Sonnet                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Github-Copilot           2,354 lines         ███████████████████░░░░░░   77.18 % 
+Claude-Code              505 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Sonnet                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.86% of written lines came from AI
-📄 Detailed Prompter — average 517 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 59.83% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.09% of written lines came from AI
+📝 Concise Prompter — average 461 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 57.79% of changed lines were hand-edited
 ```
 
 
