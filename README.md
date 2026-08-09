@@ -1,34 +1,32 @@
 <p align="left"><a href="https://mr.asadatik.dev"><img src="./assets/github-header-image.png" alt="Hello, world! I am Mr. Md. Asaduzzaman Khan Atik, also known as Mr. AsadAtik or Mr. MAK" width="100%" /></a></p>
 
 <!--START_SECTION:coding-time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2019%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 46 mins (34.21%)
+⏱ AI Coding Time: 6 hrs 23 mins (29.92%)
 
-✍️ 2,935 lines written by AI, 3,433 lines written by hand (46.09% AI-written)
+✍️ 2,867 lines written by AI, 3,510 lines written by hand (44.96% AI-written)
 
-🔤 3,952,285 Input Tokens, 127,014 Output Tokens
+🔤 3,980,483 Input Tokens, 135,213 Output Tokens
 
-💵 $38.61 Estimated AI Cost This Week
+💵 $39.26 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 85 AI Prompts
+🧠 12 AI Sessions, 79 AI Prompts
 
-Github-Copilot           2,354 lines         ███████████████████░░░░░░   77.18 % 
-Claude-Code              505 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Gemini                   135 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Sonnet                   56 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Github-Copilot           2,322 lines         ███████████████████░░░░░░   75.12 % 
+Claude-Code              769 lines           ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.09% of written lines came from AI
-📝 Concise Prompter — average 461 characters per prompt
+⚖️ Balanced with AI — 44.96% of written lines came from AI
+📝 Concise Prompter — average 444 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 57.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.37% of changed lines were hand-edited
 ```
 
 
