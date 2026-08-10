@@ -96,9 +96,9 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 23 mins (29.92%)
+⏱ AI Coding Time: 6 hrs 23 mins (28.29%)
 
-✍️ 2,867 lines written by AI, 3,510 lines written by hand (44.96% AI-written)
+✍️ 2,867 lines written by AI, 12,357 lines written by hand (18.83% AI-written)
 
 🔤 3,980,483 Input Tokens, 135,213 Output Tokens
 
@@ -111,10 +111,10 @@ Claude-Code              769 lines           ██████░░░░░�
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.96% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 18.83% of written lines came from AI
 📝 Concise Prompter — average 444 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 58.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.12% of changed lines were hand-edited
 ```
 
 
