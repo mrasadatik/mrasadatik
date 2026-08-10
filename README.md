@@ -1,16 +1,16 @@
 <p align="left"><a href="https://mr.asadatik.dev"><img src="./assets/github-header-image.png" alt="Hello, world! I am Mr. Md. Asaduzzaman Khan Atik, also known as Mr. AsadAtik or Mr. MAK" width="100%" /></a></p>
 
 <!--START_SECTION:coding-time-->
-![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2019%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 23 mins (29.92%)
+⏱ AI Coding Time: 6 hrs 23 mins (28.29%)
 
-✍️ 2,867 lines written by AI, 3,510 lines written by hand (44.96% AI-written)
+✍️ 2,867 lines written by AI, 12,357 lines written by hand (18.83% AI-written)
 
 🔤 3,980,483 Input Tokens, 135,213 Output Tokens
 
@@ -23,10 +23,10 @@ Claude-Code              769 lines           ██████░░░░░�
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.96% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 18.83% of written lines came from AI
 📝 Concise Prompter — average 444 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 58.37% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.12% of changed lines were hand-edited
 ```
 
 
