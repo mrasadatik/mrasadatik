@@ -5,30 +5,6 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2019%20mins-blue?style=flat)
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 23 mins (28.29%)
-
-✍️ 2,867 lines written by AI, 12,357 lines written by hand (18.83% AI-written)
-
-🔤 3,980,483 Input Tokens, 135,213 Output Tokens
-
-💵 $39.26 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 79 AI Prompts
-
-Github-Copilot           2,322 lines         ███████████████████░░░░░░   75.12 % 
-Claude-Code              769 lines           ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.83% of written lines came from AI
-📝 Concise Prompter — average 444 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 91.12% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:coding-time-->
 
