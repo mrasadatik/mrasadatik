@@ -139,31 +139,31 @@ Sunday                   369 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 9 hrs 33 mins       ██████████████░░░░░░░░░░░   55.26 % 
-JSON                     3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Text                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Markdown                 8 hrs               █████████████░░░░░░░░░░░░   51.37 % 
+JSON                     3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Text                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-academic-suite-for-ewuian10 hrs 23 mins      ███████████████░░░░░░░░░░   60.07 % 
-ewusuite                 5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Unknown Project          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-OmniRoute                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+academic-suite-for-ewuian8 hrs 41 mins       ██████████████░░░░░░░░░░░   55.75 % 
+ewusuite                 5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.68 % 
+Unknown Project          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+OmniRoute                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Windows                  17 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 9 mins (24.03%)
+⏱ AI Coding Time: 4 hrs 9 mins (26.63%)
 
-✍️ 566 lines written by AI, 12,102 lines written by hand (4.47% AI-written)
+✍️ 566 lines written by AI, 11,886 lines written by hand (4.55% AI-written)
 
 🔤 2,467,390 Input Tokens, 134,678 Output Tokens
 
@@ -175,10 +175,10 @@ Claude-Code              788 lines           ███████████�
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.47% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.55% of written lines came from AI
 📝 Concise Prompter — average 57 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 97.53% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.51% of changed lines were hand-edited
 ```
 
 
