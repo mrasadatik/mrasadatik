@@ -34,14 +34,14 @@ Mimo                     0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:lines-of-code-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.90%20million%20lines%20of%20code-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 9 mins (26.63%)
+⏱ AI Coding Time: 4 hrs 9 mins (39.84%)
 
-✍️ 566 lines written by AI, 11,886 lines written by hand (4.55% AI-written)
+✍️ 566 lines written by AI, 11,416 lines written by hand (4.72% AI-written)
 
 🔤 2,467,390 Input Tokens, 134,678 Output Tokens
 
@@ -53,10 +53,10 @@ Claude-Code              788 lines           ███████████�
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.55% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.72% of written lines came from AI
 📝 Concise Prompter — average 57 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 97.51% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.47% of changed lines were hand-edited
 ```
 
 
