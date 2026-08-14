@@ -121,13 +121,13 @@ Claude-Code              513 lines           ███████████�
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   832 commits         ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Saturday                 281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Sunday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Monday                   811 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+Tuesday                  355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Saturday                 281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 
 
@@ -137,46 +137,43 @@ Sunday                   369 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-Markdown                 2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Text                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Markdown                 1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.25 % 
+JSON                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+TSConfig                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  4 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ewusuite                 5 hrs 24 mins       █████████████░░░░░░░░░░░░   51.89 % 
-academic-suite-for-ewuian3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
-Unknown Project          1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-OmniRoute                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+ewusuite                 3 hrs 9 mins        ██████████████████░░░░░░░   71.97 % 
+Unknown Project          1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.03 % 
 
 💻 Operating System: 
-Windows                  10 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 9 mins (39.84%)
+⏱ AI Coding Time: 2 hrs 20 mins (53.45%)
 
-✍️ 566 lines written by AI, 11,416 lines written by hand (4.72% AI-written)
+✍️ 291 lines written by AI, 8,999 lines written by hand (3.13% AI-written)
 
-🔤 2,467,390 Input Tokens, 134,678 Output Tokens
+🔤 1,726,940 Input Tokens, 79,509 Output Tokens
 
-💵 $34.95 Estimated AI Cost This Week
+💵 $21.27 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 54 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
-Claude-Code              788 lines           █████████████████████████   100.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              513 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.72% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 97.47% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 3.13% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 98.18% of changed lines were hand-edited
 ```
 
 
