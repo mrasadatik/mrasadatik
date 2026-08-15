@@ -92,23 +92,23 @@ Claude-Code              513 lines           ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (53.45%)
+⏱ AI Coding Time: 13 mins (11.41%)
 
-✍️ 291 lines written by AI, 8,999 lines written by hand (3.13% AI-written)
+✍️ 149 lines written by AI, 8,988 lines written by hand (1.63% AI-written)
 
-🔤 1,726,940 Input Tokens, 79,509 Output Tokens
+🔤 93,069 Input Tokens, 11,747 Output Tokens
 
-💵 $21.27 Estimated AI Cost This Week
+💵 $1.13 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 18 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Claude-Code              513 lines           █████████████████████████   100.00 % 
+Claude-Code              264 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.13% of written lines came from AI
-📝 Concise Prompter — average 132 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 98.18% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.63% of written lines came from AI
+📝 Concise Prompter — average 90 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.05% of changed lines were hand-edited
 ```
 
 
