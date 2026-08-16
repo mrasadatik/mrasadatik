@@ -134,23 +134,7 @@ No AI Coding Activity Tracked This Week
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (11.41%)
-
-✍️ 149 lines written by AI, 8,988 lines written by hand (1.63% AI-written)
-
-🔤 93,069 Input Tokens, 11,747 Output Tokens
-
-💵 $1.13 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 5 AI Prompts
-
-Claude-Code              264 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.63% of written lines came from AI
-📝 Concise Prompter — average 90 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.05% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
