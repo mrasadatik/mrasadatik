@@ -103,7 +103,7 @@ Hy                       0 lines             ░░░░░░░░░░░�
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2010%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -124,25 +124,45 @@ Sunday                   369 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 38 mins             █████████████░░░░░░░░░░░░   51.72 % 
-XML                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Python                   2 hrs 23 mins       ██████████████░░░░░░░░░░░   55.84 % 
+JSON                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Text                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 13 mins        █████████████████████████   100.00 % 
+whois                    3 hrs 48 mins       ██████████████████████░░░   89.08 % 
+markitdown-main          28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 50 mins (66.68%)
+
+✍️ 832 lines written by AI, 1,064 lines written by hand (43.88% AI-written)
+
+🔤 9,922,022 Input Tokens, 11,656 Output Tokens
+
+💵 $29.94 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 62 AI Prompts
+
+Nemotron                 805 lines           ████████████████████████░   96.41 % 
+Claude-Code              30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 43.88% of written lines came from AI
+📄 Detailed Prompter — average 569 characters per prompt
+🔁 Iterative Prompter — average 31 prompts per session
+🔍 Hands-On Reviewer — 56.33% of changed lines were hand-edited
 ```
 
 
