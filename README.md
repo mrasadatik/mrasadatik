@@ -169,12 +169,30 @@ Hy                       0 lines             ░░░░░░░░░░░�
 <!--END_SECTION:spent-time-on-stats-->
 
 <!--START_SECTION:repository-languages-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2010%20mins-blue?style=flat)
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 50 mins (66.68%)
+
+✍️ 832 lines written by AI, 1,064 lines written by hand (43.88% AI-written)
+
+🔤 9,922,022 Input Tokens, 11,656 Output Tokens
+
+💵 $29.94 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 62 AI Prompts
+
+Nemotron                 805 lines           ████████████████████████░   96.41 % 
+Claude-Code              30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 43.88% of written lines came from AI
+📄 Detailed Prompter — average 569 characters per prompt
+🔁 Iterative Prompter — average 31 prompts per session
+🔍 Hands-On Reviewer — 56.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C** 
