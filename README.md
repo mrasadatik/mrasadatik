@@ -121,7 +121,7 @@ Hy                       25 lines            ░░░░░░░░░░░�
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%206%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Monday** 
 
@@ -142,45 +142,47 @@ Sunday                   369 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       ██████████████░░░░░░░░░░░   55.84 % 
-JSON                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Text                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python                   6 hrs 40 mins       ████████████████░░░░░░░░░   62.18 % 
+JSON                     2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+Text                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 30 mins      ████████████████████████░   97.97 % 
+Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🐱‍💻 Projects: 
-whois                    3 hrs 48 mins       ██████████████████████░░░   89.08 % 
-markitdown-main          28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+whois                    7 hrs 56 mins       ███████████████████░░░░░░   74.04 % 
+lookup                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+markitdown-main          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 50 mins (66.68%)
+⏱ AI Coding Time: 8 hrs 46 mins (81.78%)
 
-✍️ 832 lines written by AI, 1,064 lines written by hand (43.88% AI-written)
+✍️ 3,076 lines written by AI, 1,111 lines written by hand (73.47% AI-written)
 
-🔤 9,922,022 Input Tokens, 11,656 Output Tokens
+🔤 49,779,503 Input Tokens, 39,530 Output Tokens
 
-💵 $29.94 Estimated AI Cost This Week
+💵 $144.56 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 62 AI Prompts
+🧠 6 AI Sessions, 94 AI Prompts
 
-Nemotron                 805 lines           ████████████████████████░   96.41 % 
-Claude-Code              30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Nemotron                 1,613 lines         ████████████████████████░   96.70 % 
+Claude-Code              30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Hy                       25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.88% of written lines came from AI
-📄 Detailed Prompter — average 569 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
-🔍 Hands-On Reviewer — 56.33% of changed lines were hand-edited
+🤖 AI-Driven — 73.47% of written lines came from AI
+📄 Detailed Prompter — average 903 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 27.08% of changed lines were hand-edited
 ```
 
 
