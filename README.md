@@ -33,33 +33,7 @@ Hy                       25 lines            ░░░░░░░░░░░�
 <!--END_SECTION:coding-time-->
 
 <!--START_SECTION:lines-of-code-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2010%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.90%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 50 mins (66.68%)
-
-✍️ 832 lines written by AI, 1,064 lines written by hand (43.88% AI-written)
-
-🔤 9,922,022 Input Tokens, 11,656 Output Tokens
-
-💵 $29.94 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 62 AI Prompts
-
-Nemotron                 805 lines           ████████████████████████░   96.41 % 
-Claude-Code              30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.88% of written lines came from AI
-📄 Detailed Prompter — average 569 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
-🔍 Hands-On Reviewer — 56.33% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:lines-of-code-->
