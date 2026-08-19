@@ -38,69 +38,27 @@
 <!--END_SECTION:commit-time-distribution-->
 
 <!--START_SECTION:spent-time-on-stats-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%206%20mins-blue?style=flat)
-
 📅 **I'm Most Productive on Monday** 
 
-```text
-Monday                   811 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Tuesday                  355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Thursday                 285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Saturday                 281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Sunday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">811 commits</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="112" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">31.19%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">355 commits</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="49" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">13.65%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">322 commits</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="45" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">12.38%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">285 commits</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="39" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">10.96%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">177 commits</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="25" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">6.81%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#c9d1d9">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8b949e">281 commits</text><rect x="280" y="126" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="126" width="39" height="8" rx="0" fill="#90CAF9"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8b949e">10.81%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#c9d1d9">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8b949e">369 commits</text><rect x="280" y="150" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="150" width="51" height="8" rx="0" fill="#90CAF9"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8b949e">14.19%</text></svg>
 
 
 📊 **This Week I Spent My Time On** 
 
-```text
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   6 hrs 40 mins       ████████████████░░░░░░░░░   62.18 % 
-JSON                     2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Text                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Python</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">6 hrs 40 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="224" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">62.18%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">JSON</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 17 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="77" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">21.34%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Text</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">56 mins</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="32" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">8.84%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Markdown</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">26 mins</text><rect x="280" y="78" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="78" width="15" height="8" rx="0" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">4.06%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">Other</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">19 mins</text><rect x="280" y="102" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="102" width="11" height="8" rx="0" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">3.05%</text></svg>
 
 🔥 Editors: 
-VS Code                  10 hrs 30 mins      ████████████████████████░   97.97 % 
-Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+<svg width="720" viewBox="0 0 720 68" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">VS Code</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">10 hrs 30 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="353" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">97.97%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Claude Code</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">13 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="7" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">2.03%</text></svg>
 
 🐱‍💻 Projects: 
-whois                    7 hrs 56 mins       ███████████████████░░░░░░   74.04 % 
-lookup                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-markitdown-main          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+<svg width="720" viewBox="0 0 720 92" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">whois</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">7 hrs 56 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="267" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">74.04%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">lookup</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">2 hrs 19 mins</text><rect x="280" y="30" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="30" width="78" height="8" rx="0" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">21.62%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">markitdown-main</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">28 mins</text><rect x="280" y="54" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="54" width="16" height="8" rx="0" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">4.35%</text></svg>
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
-```
+<svg width="720" viewBox="0 0 720 44" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">Windows</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">10 hrs 43 mins</text><rect x="280" y="6" width="360" height="8" rx="0" fill="#172F45"/><rect x="280" y="6" width="360" height="8" rx="0" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">100.00%</text></svg>
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 46 mins (81.78%)
-
-✍️ 3,076 lines written by AI, 1,111 lines written by hand (73.47% AI-written)
-
-🔤 49,779,503 Input Tokens, 39,530 Output Tokens
-
-💵 $144.56 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 94 AI Prompts
-
-Nemotron                 1,613 lines         ████████████████████████░   96.70 % 
-Claude-Code              30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Hy                       25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 73.47% of written lines came from AI
-📄 Detailed Prompter — average 903 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 27.08% of changed lines were hand-edited
-```
 
 
 <!--END_SECTION:spent-time-on-stats-->
