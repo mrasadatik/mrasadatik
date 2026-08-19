@@ -36,12 +36,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_AI_CODE_TIME: false
           SHOW_AI_CODING: false
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
       # Step 2: Update Code Time
       - name: Update the Code Time
         uses: anmol098/waka-readme-stats@master
@@ -67,12 +61,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_AI_CODE_TIME: false
           SHOW_AI_CODING: false
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
       # Step 3: Update Commit Stats by Time Period
       - name: Update the Commit Stats by Time Period
         uses: anmol098/waka-readme-stats@master
@@ -98,12 +86,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_AI_CODE_TIME: false
           SHOW_AI_CODING: false
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
       # Step 4: Update Spent Time On Stats
       - name: Update the Spent Time On Stats
         uses: anmol098/waka-readme-stats@master
@@ -129,12 +111,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_AI_CODE_TIME: false
           SHOW_AI_CODING: false
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
       # Step 5: Update Language Per Repo Stats
       - name: Update the Language Per Repo Stats
         uses: anmol098/waka-readme-stats@master
@@ -160,12 +136,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_AI_CODE_TIME: false
           SHOW_AI_CODING: false
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
       # Step 6: Update Blog post from Dev.to
       - name: Update the Blog post from Dev.to
         uses: gautamkrishnar/blog-post-workflow@master
