@@ -87,7 +87,13 @@ Windows                  10 hrs 43 mins      ███████████�
 <!--START_SECTION:repository-languages-->
 **I Mostly Code in C** 
 
-<svg width="720" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">C</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">7 repos</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="6" width="105" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">29.17%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">Shell</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">3 repos</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="30" width="45" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">12.50%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">Java</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">2 repos</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="54" width="30" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">8.33%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">Python</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="78" width="15" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">4.17%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#c9d1d9">C++</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8b949e">1 repo</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#172f45"/><rect x="280" y="102" width="15" height="8" rx="4" fill="#90CAF9"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8b949e">4.17%</text></svg>
+```text
+C                        7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
 
 
 
