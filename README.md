@@ -62,23 +62,22 @@ Sunday                   369 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TOML                     4 hrs 39 mins       █████████████████░░░░░░░░   66.38 % 
-HTML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TOML                     4 hrs 39 mins       █████████████████░░░░░░░░   69.28 % 
+Other                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+reg                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+INI                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ammiplatform             5 hrs 5 mins        ██████████████████░░░░░░░   72.40 % 
-azim                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-whois                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-arculet                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+ammiplatform             5 hrs 5 mins        ███████████████████░░░░░░   75.57 % 
+markitdown               1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
