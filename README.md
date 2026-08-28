@@ -62,22 +62,22 @@ Sunday                   369 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TOML                     4 hrs 39 mins       █████████████████░░░░░░░░   69.28 % 
-Other                    1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-reg                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-INI                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Other                    2 hrs 17 mins       █████████████░░░░░░░░░░░░   50.43 % 
+NWScript                 1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.44 % 
+reg                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Batchfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ammiplatform             5 hrs 5 mins        ███████████████████░░░░░░   75.57 % 
-markitdown               1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+markitdown               3 hrs 4 mins        █████████████████░░░░░░░░   67.67 % 
+Nilesoft Shell           1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
