@@ -46,13 +46,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   811 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Tuesday                  355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Thursday                 285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Saturday                 281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Sunday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Monday                   814 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Saturday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 ```
 
 
@@ -62,22 +62,23 @@ Sunday                   369 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs 17 mins       █████████████░░░░░░░░░░░░   50.43 % 
-NWScript                 1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.44 % 
-reg                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Batchfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other                    2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.62 % 
+NWScript                 1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+TSConfig                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-markitdown               3 hrs 4 mins        █████████████████░░░░░░░░   67.67 % 
-Nilesoft Shell           1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+markitdown               3 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.71 % 
+asadatik.dev             2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Nilesoft Shell           1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
