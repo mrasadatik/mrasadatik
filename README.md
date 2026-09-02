@@ -62,23 +62,23 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.62 % 
-NWScript                 1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-TSConfig                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+NWScript                 1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.38 % 
+Other                    1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+TSConfig                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-markitdown               3 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.71 % 
-asadatik.dev             2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Nilesoft Shell           1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+asadatik.dev             2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.31 % 
+markitdown               1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   30.62 % 
+Nilesoft Shell           1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  6 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
