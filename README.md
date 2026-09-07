@@ -62,20 +62,16 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-TypeScript               27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-TSConfig                 24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Bash                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-asadatik.dev             2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
