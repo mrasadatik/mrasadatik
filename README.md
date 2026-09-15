@@ -62,14 +62,15 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     13 mins             ██████████████░░░░░░░░░░░   56.92 % 
-Other                    10 mins             ███████████░░░░░░░░░░░░░░   43.08 % 
+JSON                     13 mins             ██████████████░░░░░░░░░░░   56.74 % 
+Other                    10 mins             ███████████░░░░░░░░░░░░░░   43.26 % 
 
 🔥 Editors: 
 VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-knre                     24 mins             █████████████████████████   100.00 % 
+knre                     24 mins             █████████████████████████   99.70 % 
+kratos-selfservice-ui-rea0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
 Linux                    24 mins             █████████████████████████   100.00 % 
