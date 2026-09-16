@@ -46,13 +46,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   814 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Monday                   814 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 Saturday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 ```
 
 
@@ -62,18 +62,22 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     13 mins             ██████████████░░░░░░░░░░░   56.74 % 
-Other                    10 mins             ███████████░░░░░░░░░░░░░░   43.26 % 
+JSON                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Python                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Other                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-knre                     24 mins             █████████████████████████   99.70 % 
-kratos-selfservice-ui-rea0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+arculetHQ                2 hrs 56 mins       ██████████████████████░░░   87.80 % 
+knre                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+kratos-selfservice-ui-rea0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
