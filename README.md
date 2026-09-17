@@ -84,11 +84,11 @@ Linux                    8 hrs 29 mins       ███████████�
 <!--END_SECTION:spent-time-on-stats-->
 
 <!--START_SECTION:repository-languages-->
-**I Mostly Code in C** 
+**I Mostly Code in TypeScript** 
 
 ```text
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
 C                        7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
 Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
