@@ -62,22 +62,22 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-JSON                     2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-TypeScript               2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-CSS                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Svelte                   3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+TypeScript               3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+JSON                     3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Python                   2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+CSS                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arculetHQ                11 hrs 56 mins      ████████████████████████░   96.69 % 
-knre                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+arculetHQ                17 hrs 31 mins      ████████████████████████░   97.72 % 
+knre                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 kratos-selfservice-ui-rea0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    12 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
