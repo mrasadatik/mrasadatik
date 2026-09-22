@@ -46,13 +46,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   814 commits         ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Wednesday                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Saturday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Monday                   804 commits         ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Wednesday                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Saturday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -72,8 +72,7 @@ CSS                      1 hr 12 mins        ██░░░░░░░░░�
 VS Code                  17 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arculetHQ                17 hrs 31 mins      █████████████████████████   99.99 % 
-kratos-selfservice-ui-rea0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+arculetHQ                17 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                    17 hrs 31 mins      █████████████████████████   100.00 % 
