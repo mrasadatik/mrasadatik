@@ -62,20 +62,20 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Svelte                   2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.14 % 
-TypeScript               1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-CSS                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-HTML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Svelte                   2 hrs 48 mins       █████████████░░░░░░░░░░░░   50.27 % 
+TypeScript               1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arculetHQ                6 hrs 53 mins       █████████████████████████   100.00 % 
+arculetHQ                5 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
