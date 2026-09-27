@@ -62,20 +62,16 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Svelte                   2 hrs 48 mins       █████████████░░░░░░░░░░░░   50.27 % 
-TypeScript               1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-arculetHQ                5 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
