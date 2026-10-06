@@ -62,16 +62,21 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               25 mins             █████████████████░░░░░░░░   68.07 % 
+Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Copilot CLI              25 mins             █████████████████░░░░░░░░   68.05 % 
+VS Code                  11 mins             ████████░░░░░░░░░░░░░░░░░   31.95 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+modem-control            36 mins             █████████████████████████   98.84 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 
