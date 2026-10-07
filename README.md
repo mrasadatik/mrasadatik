@@ -62,21 +62,22 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               25 mins             █████████████████░░░░░░░░   68.07 % 
-Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TypeScript               5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.89 % 
+Svelte                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 🔥 Editors: 
-Copilot CLI              25 mins             █████████████████░░░░░░░░   68.05 % 
-VS Code                  11 mins             ████████░░░░░░░░░░░░░░░░░   31.95 % 
+VS Code                  8 hrs 23 mins       ██████████████████░░░░░░░   70.48 % 
+Copilot CLI              3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
 
 🐱‍💻 Projects: 
-modem-control            36 mins             █████████████████████████   98.84 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+modem-control            11 hrs 53 mins      █████████████████████████   99.94 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  11 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
