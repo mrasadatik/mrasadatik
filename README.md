@@ -46,13 +46,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   804 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                376 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Thursday                 288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Saturday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Monday                   804 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Wednesday                375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Saturday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
 
@@ -62,21 +62,22 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 hrs 38 mins       ████████████░░░░░░░░░░░░░   48.40 % 
-Svelte                   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+TypeScript               3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
+Svelte                   1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+JSON                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 58 mins      ████████████████████░░░░░   78.21 % 
-Copilot CLI              3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+VS Code                  7 hrs 23 mins       ███████████████████████░░   90.21 % 
+Copilot CLI              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 🐱‍💻 Projects: 
-modem-control            17 hrs 51 mins      █████████████████████████   100.00 % 
+modem-control            6 hrs 34 mins       ████████████████████░░░░░   80.38 % 
+arculetHQ                1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
 
 💻 Operating System: 
-Windows                  17 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
