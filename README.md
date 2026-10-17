@@ -62,22 +62,20 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
-Svelte                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-JSON                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+TypeScript               1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   39.64 % 
+JSON                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 33 mins       ███████████████████████░░   92.26 % 
-Copilot CLI              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-modem-control            6 hrs 34 mins       ████████████████░░░░░░░░░   63.52 % 
-arculetHQ                3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
+arculetHQ                3 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
