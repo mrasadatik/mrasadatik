@@ -46,13 +46,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   804 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Wednesday                375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Saturday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Monday                   806 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Tuesday                  358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Wednesday                375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Thursday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Friday                   177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Saturday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Sunday                   380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 ```
 
 
@@ -62,20 +62,20 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   39.64 % 
-JSON                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+JSON                     2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
+TypeScript               2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Git Config               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arculetHQ                3 hrs 46 mins       █████████████████████████   100.00 % 
+arculetHQ                7 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
