@@ -62,20 +62,20 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
-TypeScript               2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-Git Config               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
+JSON                     2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.22 % 
+Git Config               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arculetHQ                8 hrs 8 mins        █████████████████████████   100.00 % 
+arculetHQ                6 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
