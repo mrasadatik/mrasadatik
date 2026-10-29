@@ -62,16 +62,21 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 7 mins        ██████████████████████░░░   87.06 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 14 mins       ███████████████████████░░   91.40 % 
+OpenCode                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+arculetHQ                2 hrs 14 mins       ███████████████████████░░   91.40 % 
+ewutc.com                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
