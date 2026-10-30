@@ -62,21 +62,22 @@ Sunday                   380 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ██████████████████████░░░   87.06 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               2 hrs 18 mins       ███████████████░░░░░░░░░░   58.69 % 
+JSON                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Svelte                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       ███████████████████████░░   91.40 % 
-OpenCode                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+VS Code                  3 hrs 42 mins       ████████████████████████░   94.63 % 
+OpenCode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🐱‍💻 Projects: 
-arculetHQ                2 hrs 14 mins       ███████████████████████░░   91.40 % 
-ewutc.com                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+arculetHQ                2 hrs 14 mins       ██████████████░░░░░░░░░░░   57.07 % 
+ewutc.com                1 hr 40 mins        ███████████░░░░░░░░░░░░░░   42.93 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
